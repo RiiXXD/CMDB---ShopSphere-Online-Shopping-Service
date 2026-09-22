@@ -93,7 +93,7 @@ The model deliberately avoids a redundant direct relationship between the applic
 
 ## Implementation
 
-### Day 1 — CMDB foundation and service mapping
+### CMDB foundation and service mapping
 
 - Created the ShopSphere support group.
 - Created four Linux Server CIs with unique names, serial numbers, IP addresses, operational status, and support ownership.
@@ -102,7 +102,7 @@ The model deliberately avoids a redundant direct relationship between the applic
 - Added seven application-to-infrastructure relationships.
 - Validated the complete topology using the Application Service Map and Dependency View.
 
-### Day 2 — Import Sets and IRE
+### Import Sets and IRE
 
 - Loaded server data into an Import Set staging table from CSV.
 - Created a Transform Map targeting `cmdb_ci_linux_server`.
@@ -117,7 +117,7 @@ sn_cmdb.IdentificationEngine.createOrUpdateCI(' ', input);
 - Reprocessed the same source data to demonstrate idempotency.
 - Verified that existing Sys IDs remained unchanged and no duplicate servers were created.
 
-### Day 3 — Health, ITSM and automation
+### Health, ITSM and automation
 
 - Configured recommended completeness fields for Linux Servers.
 - Added a Health Inclusion Rule for Linux Servers whose names start with `SHOP-`.
