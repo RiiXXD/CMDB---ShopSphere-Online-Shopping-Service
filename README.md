@@ -185,32 +185,6 @@ Metric = Recommended
 
 ## Repository structure
 
-```text
-ShopSphere-CMDB-Portfolio/
-├── README.md
-├── update-set/
-│   └── ShopSphere_CMDB_Portfolio_Update_Set.xml
-├── cmdb-data/
-│   ├── 01_ShopSphere_Support_Group.xml
-│   ├── 02_ShopSphere_Linux_Servers.xml
-│   ├── 03_ShopSphere_Applications.xml
-│   ├── 04_ShopSphere_Application_Service.xml
-│   └── 05_ShopSphere_CI_Relationships.xml
-├── import-data/
-│   └── ShopSphere_Day2_Server_Import.csv
-└── screenshots/
-    ├── 01-service-map.png
-    ├── 02-linux-server-list.png
-    ├── 03-identification-rule.png
-    ├── 04-ire-transform-result.png
-    ├── 05-health-before-remediation.png
-    ├── 06-health-after-remediation.png
-    ├── 07-incident-assignment.png
-    ├── 08-flow-execution.png
-    ├── 09-change-affected-cis.png
-    └── 10-dashboard.png
-```
-
 ## Installation
 
 > Install this project only in a development or test instance. Review all XML and Update Set records before committing them.
@@ -327,16 +301,6 @@ OR Child.Name starts with SHOP-
 Expected: 7 records
 ```
 
-## Evidence and screenshots
-
-
-
-```markdown
-![ShopSphere service map](screenshots/01-service-map.png)
-![IRE transform result](screenshots/04-ire-transform-result.png)
-![CMDB Health remediation](screenshots/06-health-after-remediation.png)
-![Portfolio dashboard](screenshots/10-dashboard.png)
-```
 
 Before publishing, remove or obscure:
 
