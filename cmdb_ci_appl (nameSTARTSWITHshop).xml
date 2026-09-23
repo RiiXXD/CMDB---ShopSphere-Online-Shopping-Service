@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-22 21:30:54">
+<cmdb_ci_appl action="INSERT_OR_UPDATE">
+<asset display_value=""/>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Resource</category>
+<change_control display_value=""/>
+<checked_in/>
+<checked_out/>
+<cl_port/>
+<comments/>
+<company display_value=""/>
+<config_directory/>
+<config_file/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<edition/>
+<environment/>
+<fault_count>0</fault_count>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<install_date/>
+<install_directory/>
+<install_status>1</install_status>
+<invoice_number/>
+<ip_address/>
+<is_clustered>false</is_clustered>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value=""/>
+<model_number/>
+<monitor>false</monitor>
+<name>ShopSphere Order API</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value=""/>
+<pid/>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<rp_command_hash/>
+<rp_key_parameters_hash/>
+<running_process_command/>
+<running_process_key_parameters/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description>API responsible for order processing</short_description>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Application</subcategory>
+<support_group display_value="ShopSphere Platform Support" name="ShopSphere Platform Support">c13d937373df83107517f8ec4ab8b723</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_appl</sys_class_name>
+<sys_class_path>/!!/!(</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 11:15:01</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>26c923bb7313c3107517f8ec4ab8b7c1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 11:16:29</sys_updated_on>
+<tcp_port/>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<version>1.8.0</version>
+<warranty_expiration/>
+</cmdb_ci_appl>
+<cmdb_ci_appl action="INSERT_OR_UPDATE">
+<asset display_value=""/>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Resource</category>
+<change_control display_value=""/>
+<checked_in/>
+<checked_out/>
+<cl_port/>
+<comments/>
+<company display_value=""/>
+<config_directory/>
+<config_file/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<edition/>
+<environment/>
+<fault_count>0</fault_count>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<install_date/>
+<install_directory/>
+<install_status>1</install_status>
+<invoice_number/>
+<ip_address/>
+<is_clustered>false</is_clustered>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value=""/>
+<model_number/>
+<monitor>false</monitor>
+<name>ShopSphere PostgreSQL Database</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value=""/>
+<pid/>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<rp_command_hash/>
+<rp_key_parameters_hash/>
+<running_process_command/>
+<running_process_key_parameters/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description>Production database used by the Order API</short_description>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Application</subcategory>
+<support_group display_value="ShopSphere Platform Support" name="ShopSphere Platform Support">c13d937373df83107517f8ec4ab8b723</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_appl</sys_class_name>
+<sys_class_path>/!!/!(</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 11:15:32</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>d6e923bb7313c3107517f8ec4ab8b7ff</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 11:16:32</sys_updated_on>
+<tcp_port/>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<version>16.2</version>
+<warranty_expiration/>
+</cmdb_ci_appl>
+<cmdb_ci_appl action="INSERT_OR_UPDATE">
+<asset display_value=""/>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Resource</category>
+<change_control display_value=""/>
+<checked_in/>
+<checked_out/>
+<cl_port/>
+<comments/>
+<company display_value=""/>
+<config_directory/>
+<config_file/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<edition/>
+<environment/>
+<fault_count>0</fault_count>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<install_date/>
+<install_directory/>
+<install_status>1</install_status>
+<invoice_number/>
+<ip_address/>
+<is_clustered>false</is_clustered>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value=""/>
+<model_number/>
+<monitor>false</monitor>
+<name>ShopSphere Web Application</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value=""/>
+<pid/>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<rp_command_hash/>
+<rp_key_parameters_hash/>
+<running_process_command/>
+<running_process_key_parameters/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description>Customer-facing ShopSphere storefront</short_description>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Application</subcategory>
+<support_group display_value="ShopSphere Platform Support" name="ShopSphere Platform Support">c13d937373df83107517f8ec4ab8b723</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_appl</sys_class_name>
+<sys_class_path>/!!/!(</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 11:14:17</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>2589ab7b7313c3107517f8ec4ab8b7f5</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-20 11:16:35</sys_updated_on>
+<tcp_port/>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<version>2.4.0</version>
+<warranty_expiration/>
+</cmdb_ci_appl>
+</unload>

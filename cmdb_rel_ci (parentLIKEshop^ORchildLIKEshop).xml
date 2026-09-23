@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-22 21:34:30">
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="Manual Endpoint">c7eda8506fe74710e88539955d205191</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere Online Shopping Service">a476449473a347107517f8ec4ab8b7f5</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 10:51:11</sys_created_on>
+<sys_id>d3ede89073e747107517f8ec4ab8b78e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 10:51:11</sys_updated_on>
+<type display_value="Use End Point To::Use End Point From">e7490a74532221007c949096a11c08b2</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="ShopSphere Web Application">2589ab7b7313c3107517f8ec4ab8b7f5</child>
+<connection_strength>always</connection_strength>
+<parent display_value="Manual Endpoint">c7eda8506fe74710e88539955d205191</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 10:51:11</sys_created_on>
+<sys_id>57ede89073e747107517f8ec4ab8b78f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 10:51:11</sys_updated_on>
+<type display_value="Implement End Point To::Implement End Point From">45e94a74532221007c949096a11c0861</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="ShopSphere Order API">26c923bb7313c3107517f8ec4ab8b7c1</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere Online Shopping Service">a476449473a347107517f8ec4ab8b7f5</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 10:04:35</sys_created_on>
+<sys_id>a223245c736747107517f8ec4ab8b720</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 10:04:35</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="ShopSphere Web Application">2589ab7b7313c3107517f8ec4ab8b7f5</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere Online Shopping Service">a476449473a347107517f8ec4ab8b7f5</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 10:03:38</sys_created_on>
+<sys_id>dae26c1c736747107517f8ec4ab8b78e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 10:03:38</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="ShopSphere PostgreSQL Database">d6e923bb7313c3107517f8ec4ab8b7ff</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere Order API">26c923bb7313c3107517f8ec4ab8b7c1</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 08:15:03</sys_created_on>
+<sys_id>c21a0c1c73a347107517f8ec4ab8b75d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 08:15:03</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="ShopSphere Order API">26c923bb7313c3107517f8ec4ab8b7c1</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere Web Application">2589ab7b7313c3107517f8ec4ab8b7f5</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 08:14:30</sys_created_on>
+<sys_id>34f94c1c73a347107517f8ec4ab8b74f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 08:14:30</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="SHOP-DB-01">9049af3b7313c3107517f8ec4ab8b765</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere PostgreSQL Database">d6e923bb7313c3107517f8ec4ab8b7ff</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 08:13:53</sys_created_on>
+<sys_id>5fc9841c73a347107517f8ec4ab8b782</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 08:13:53</sys_updated_on>
+<type display_value="Runs on::Runs">60bc4e22c0a8010e01f074cbe6bd73c3</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="SHOP-APP-01">d529abf77313c3107517f8ec4ab8b790</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere Order API">26c923bb7313c3107517f8ec4ab8b7c1</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 08:13:13</sys_created_on>
+<sys_id>83a9c41c73a347107517f8ec4ab8b7ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 08:13:13</sys_updated_on>
+<type display_value="Runs on::Runs">60bc4e22c0a8010e01f074cbe6bd73c3</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="SHOP-WEB-02">74e8273b7313c3107517f8ec4ab8b7db</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere Web Application">2589ab7b7313c3107517f8ec4ab8b7f5</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 08:12:37</sys_created_on>
+<sys_id>2f790c1c73a347107517f8ec4ab8b7e9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 08:12:37</sys_updated_on>
+<type display_value="Runs on::Runs">60bc4e22c0a8010e01f074cbe6bd73c3</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="SHOP-WEB-01">a638afb77313c3107517f8ec4ab8b7e6</child>
+<connection_strength>always</connection_strength>
+<parent display_value="ShopSphere Web Application">2589ab7b7313c3107517f8ec4ab8b7f5</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 08:11:51</sys_created_on>
+<sys_id>3c59c41c73a347107517f8ec4ab8b75c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 08:11:51</sys_updated_on>
+<type display_value="Runs on::Runs">60bc4e22c0a8010e01f074cbe6bd73c3</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="ShopSphere Online Shopping Service">a476449473a347107517f8ec4ab8b7f5</child>
+<connection_strength>always</connection_strength>
+<parent display_value="Manual Endpoint">57a800186ca347104a4692996a9ff548</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 08:08:29</sys_created_on>
+<sys_id>3ba880d873a347107517f8ec4ab8b7ed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 08:08:29</sys_updated_on>
+<type display_value="Implement End Point To::Implement End Point From">45e94a74532221007c949096a11c0861</type>
+</cmdb_rel_ci>
+</unload>

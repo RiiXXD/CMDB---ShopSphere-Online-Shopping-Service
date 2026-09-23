@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-22 21:30:07">
+<cmdb_ci_linux_server action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">b2c9e3bb7313c3107517f8ec4ab8b7f4</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<cd_rom>false</cd_rom>
+<cd_speed/>
+<change_control display_value=""/>
+<chassis_type/>
+<checked_in/>
+<checked_out/>
+<classification>Production</classification>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_core_count/>
+<cpu_core_thread/>
+<cpu_count/>
+<cpu_manufacturer display_value=""/>
+<cpu_name/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source>ServiceNow</discovery_source>
+<disk_space/>
+<dns_domain/>
+<dr_backup display_value=""/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firewall_status>Intranet</firewall_status>
+<first_discovered>2026-09-21 11:23:34</first_discovered>
+<floppy/>
+<form_factor/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<host_name/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address>10.20.20.121</ip_address>
+<justification/>
+<kernel_release/>
+<last_discovered>2026-09-21 11:30:54</last_discovered>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">e6c9e3bb7313c3107517f8ec4ab8b764</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>SHOP-APP-01</name>
+<object_id/>
+<operational_status>1</operational_status>
+<order_date/>
+<os/>
+<os_address_width/>
+<os_domain/>
+<os_service_pack/>
+<os_version/>
+<owned_by display_value=""/>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<schedule display_value=""/>
+<serial_number>SHP-APP-0001</serial_number>
+<short_description>ShopSphere order-processing server - updated by portfolio import</short_description>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Computer</subcategory>
+<support_group display_value="ShopSphere Platform Support" name="ShopSphere Platform Support">c13d937373df83107517f8ec4ab8b723</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_linux_server</sys_class_name>
+<sys_class_path>/!!/!2/!(/!!/!0</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 11:12:12</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>d529abf77313c3107517f8ec4ab8b790</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-22 09:10:27</sys_updated_on>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<virtual>false</virtual>
+<warranty_expiration/>
+</cmdb_ci_linux_server>
+<cmdb_ci_linux_server action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">8bc927bb7313c3107517f8ec4ab8b776</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<cd_rom>false</cd_rom>
+<cd_speed/>
+<change_control display_value=""/>
+<chassis_type/>
+<checked_in/>
+<checked_out/>
+<classification>Production</classification>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_core_count/>
+<cpu_core_thread/>
+<cpu_count/>
+<cpu_manufacturer display_value=""/>
+<cpu_name/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source>ServiceNow</discovery_source>
+<disk_space/>
+<dns_domain/>
+<dr_backup display_value=""/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firewall_status>Intranet</firewall_status>
+<first_discovered>2026-09-21 11:23:34</first_discovered>
+<floppy/>
+<form_factor/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<host_name/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address>10.20.30.131</ip_address>
+<justification/>
+<kernel_release/>
+<last_discovered>2026-09-21 11:30:54</last_discovered>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">e6c9e3bb7313c3107517f8ec4ab8b764</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>SHOP-DB-01</name>
+<object_id/>
+<operational_status>1</operational_status>
+<order_date/>
+<os/>
+<os_address_width/>
+<os_domain/>
+<os_service_pack/>
+<os_version/>
+<owned_by display_value=""/>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<schedule display_value=""/>
+<serial_number>SHP-DB-0001</serial_number>
+<short_description>ShopSphere production database server - updated by portfolio import</short_description>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Computer</subcategory>
+<support_group display_value="ShopSphere Platform Support" name="ShopSphere Platform Support">c13d937373df83107517f8ec4ab8b723</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_linux_server</sys_class_name>
+<sys_class_path>/!!/!2/!(/!!/!0</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 11:12:40</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9049af3b7313c3107517f8ec4ab8b765</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 11:30:54</sys_updated_on>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<virtual>false</virtual>
+<warranty_expiration/>
+</cmdb_ci_linux_server>
+<cmdb_ci_linux_server action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">0bc927bb7313c3107517f8ec4ab8b76f</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<cd_rom>false</cd_rom>
+<cd_speed/>
+<change_control display_value=""/>
+<chassis_type/>
+<checked_in/>
+<checked_out/>
+<classification>Production</classification>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_core_count/>
+<cpu_core_thread/>
+<cpu_count/>
+<cpu_manufacturer display_value=""/>
+<cpu_name/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source>ServiceNow</discovery_source>
+<disk_space/>
+<dns_domain/>
+<dr_backup display_value=""/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firewall_status>Intranet</firewall_status>
+<first_discovered>2026-09-21 11:23:31</first_discovered>
+<floppy/>
+<form_factor/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<host_name/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address>10.20.10.101</ip_address>
+<justification/>
+<kernel_release/>
+<last_discovered>2026-09-21 11:30:54</last_discovered>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">e6c9e3bb7313c3107517f8ec4ab8b764</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>SHOP-WEB-01</name>
+<object_id/>
+<operational_status>1</operational_status>
+<order_date/>
+<os/>
+<os_address_width/>
+<os_domain/>
+<os_service_pack/>
+<os_version/>
+<owned_by display_value=""/>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<schedule display_value=""/>
+<serial_number>SHP-WEB-0001</serial_number>
+<short_description>Primary ShopSphere web server - updated by portfolio import</short_description>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Computer</subcategory>
+<support_group display_value="ShopSphere Platform Support" name="ShopSphere Platform Support">c13d937373df83107517f8ec4ab8b723</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_linux_server</sys_class_name>
+<sys_class_path>/!!/!2/!(/!!/!0</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 11:09:17</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a638afb77313c3107517f8ec4ab8b7e6</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 11:30:54</sys_updated_on>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<virtual>false</virtual>
+<warranty_expiration/>
+</cmdb_ci_linux_server>
+<cmdb_ci_linux_server action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">43c927bb7313c3107517f8ec4ab8b773</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<cd_rom>false</cd_rom>
+<cd_speed/>
+<change_control display_value=""/>
+<chassis_type/>
+<checked_in/>
+<checked_out/>
+<classification>Production</classification>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_core_count/>
+<cpu_core_thread/>
+<cpu_count/>
+<cpu_manufacturer display_value=""/>
+<cpu_name/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source>ServiceNow</discovery_source>
+<disk_space/>
+<dns_domain/>
+<dr_backup display_value=""/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firewall_status>Intranet</firewall_status>
+<first_discovered>2026-09-21 11:23:34</first_discovered>
+<floppy/>
+<form_factor/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<host_name/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address>10.20.10.102</ip_address>
+<justification/>
+<kernel_release/>
+<last_discovered>2026-09-21 11:30:54</last_discovered>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">e6c9e3bb7313c3107517f8ec4ab8b764</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>SHOP-WEB-02</name>
+<object_id/>
+<operational_status>1</operational_status>
+<order_date/>
+<os/>
+<os_address_width/>
+<os_domain/>
+<os_service_pack/>
+<os_version/>
+<owned_by display_value=""/>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<schedule display_value=""/>
+<serial_number>SHP-WEB-0002</serial_number>
+<short_description>Secondary ShopSphere web server - updated by portfolio import</short_description>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Computer</subcategory>
+<support_group display_value="ShopSphere Platform Support" name="ShopSphere Platform Support">c13d937373df83107517f8ec4ab8b723</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_linux_server</sys_class_name>
+<sys_class_path>/!!/!2/!(/!!/!0</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-20 11:11:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>74e8273b7313c3107517f8ec4ab8b7db</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 11:30:54</sys_updated_on>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<virtual>false</virtual>
+<warranty_expiration/>
+</cmdb_ci_linux_server>
+</unload>

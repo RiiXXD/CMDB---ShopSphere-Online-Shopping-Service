@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-22 21:31:34">
+<cmdb_ci_service_discovered action="INSERT_OR_UPDATE">
+<aliases/>
+<asset display_value=""/>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<bucket/>
+<busines_criticality>4 - not critical</busines_criticality>
+<business_contact display_value=""/>
+<business_need/>
+<business_relation_manager display_value=""/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category/>
+<change_control display_value=""/>
+<checked_in/>
+<checked_out/>
+<checkout/>
+<comments>Customer-facing online shopping service supporting storefront browsing and order processing</comments>
+<company display_value=""/>
+<compatibility_dependencies/>
+<consumer_type>internal</consumer_type>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<delivery_date/>
+<delivery_manager display_value=""/>
+<department display_value=""/>
+<discovery_source>Manual Entry</discovery_source>
+<discovery_status>0</discovery_status>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<end_date/>
+<environment>Production</environment>
+<fault_count>0</fault_count>
+<first_discovered>2026-09-21 08:02:28</first_discovered>
+<fqdn/>
+<gl_account/>
+<hide_from_dashboard>false</hide_from_dashboard>
+<install_date/>
+<install_status>1</install_status>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered>2026-09-21 08:10:49</last_discovered>
+<last_review_date/>
+<layer display_value="Impact ShopSphere Online Shopping Service">98a6c89473a347107517f8ec4ab8b71e</layer>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value=""/>
+<model_number/>
+<monitor>false</monitor>
+<monitoring_requirements/>
+<name>ShopSphere Online Shopping Service</name>
+<number>SNSVC0001002</number>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value=""/>
+<parent display_value=""/>
+<po_number/>
+<portfolio_status>pipeline</portfolio_status>
+<prerequisites/>
+<price_model>per_unit</price_model>
+<price_unit/>
+<priority>1</priority>
+<process_status>2</process_status>
+<product_instance_id/>
+<published_ref display_value=""/>
+<purchase_date/>
+<schedule display_value=""/>
+<serial_number/>
+<service_classification>Application Service</service_classification>
+<service_level_requirement/>
+<service_owner_delegate display_value=""/>
+<service_status>requirements</service_status>
+<severity/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<sla display_value=""/>
+<source/>
+<spm_service_portfolio display_value=""/>
+<spm_taxonomy_node display_value=""/>
+<stakeholders/>
+<start_date/>
+<state/>
+<subcategory/>
+<support_group display_value="ShopSphere Platform Support" name="ShopSphere Platform Support">c13d937373df83107517f8ec4ab8b723</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_service_discovered</sys_class_name>
+<sys_class_path>/!!/!7/!(/!!</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-21 07:59:24</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a476449473a347107517f8ec4ab8b7f5</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-21 08:10:49</sys_updated_on>
+<traffic_discovery>true</traffic_discovery>
+<type>1</type>
+<unit_description/>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<user_group display_value=""/>
+<vendor display_value=""/>
+<version/>
+<view_map>5c38c522533321001c1379e5a11c088b</view_map>
+<view_service>61e1cb757f23220002d31ccebefa9120</view_service>
+<warranty_expiration/>
+<work_notes/>
+</cmdb_ci_service_discovered>
+</unload>

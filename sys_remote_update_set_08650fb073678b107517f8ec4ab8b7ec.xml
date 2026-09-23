@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-09-23 11:09:57">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Configuration components for the ShopSphere CMDB, IRE import and operational integration demonstration.</description>
+<inserted/>
+<name>ShopSphere CMDB Portfolio Project</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>aa08b814732b47107517f8ec4ab8b7e0</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:50</sys_created_on>
+<sys_id>08650fb073678b107517f8ec4ab8b7ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:50</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>oauth_entity_baba1e6473a30b107517f8ec4ab8b7b4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity"><oauth_entity action="INSERT_OR_UPDATE"><access>public</access><access_token_lifespan>1800</access_token_lifespan><active>true</active><allow_snc_user_exchange>false</allow_snc_user_exchange><auth_aig_client>false</auth_aig_client><auth_cimd_client>false</auth_cimd_client><auth_code_lifespan>60</auth_code_lifespan><auth_url/><bff_cookie_exchange_allowed>false</bff_cookie_exchange_allowed><bind_token_to_session>false</bind_token_to_session><certificate_url/><client_id>1624ac93b46221009eb8191f0e41680d</client_id><client_secret>﷞﷟﷒4aba1e6473a30b107517f8ec4ab8b72d﷬﷔1﷬﷭8I3FQc2YQ5pWID90UrJOQA==hFJ7INmktjJsURqNdNQu0dvsdQcGCUGlzESAL2F_k3n3KAI6﷮﷯</client_secret><client_type/><client_uuid>faba1e6473a30b107517f8ec4ab8b7b4</client_uuid><code_challenge_method>S256</code_challenge_method><comments>Used by the service WebKit HTML to PDF</comments><default_grant_type>password</default_grant_type><extend_refresh_token_expiry>false</extend_refresh_token_expiry><id_token_lifespan>86400</id_token_lifespan><inbound_grant_type>ropc</inbound_grant_type><jwt_provider/><login_url/><logo_url/><message_signature_lifespan>60</message_signature_lifespan><mobile_client>false</mobile_client><name>WebKit HTML to PDF</name><oauth_api_script/><only_rest_processor>false</only_rest_processor><protocol_name/><public_client>false</public_client><redirect_url/><refresh_token_lifespan>8640000</refresh_token_lifespan><refresh_token_url/><restricted_binding>false</restricted_binding><revoke_token_url/><salt/><scope_restriction_status>unrestricted</scope_restriction_status><send_client_credentials_as>request_body_parameter</send_client_credentials_as><skip_authorize>false</skip_authorize><sub_claim>sys_id</sub_claim><sys_class_name>oauth_entity</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:25:03</sys_created_on><sys_id>baba1e6473a30b107517f8ec4ab8b7b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>WebKit HTML to PDF</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>oauth_entity_baba1e6473a30b107517f8ec4ab8b7b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:25:03</sys_updated_on><token_format>opaque</token_format><token_url/><type>client</type><use_mutual_auth>false</use_mutual_auth><use_pkce>false</use_pkce><user/></oauth_entity></record_update>]]></payload>
+<payload_hash>-1990352915</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>04658fb073678b107517f8ec4ab8b77c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94aa59b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>WebKit HTML to PDF</target_name>
+<type>Application Registries</type>
+<update_domain>global</update_domain>
+<update_guid>f3ba5e647fa30b100823bbd075c1795f</update_guid>
+<update_guid_history>f3ba5e647fa30b100823bbd075c1795f:-1990352915</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_abc2b5a8736fc7107517f8ec4ab8b7d7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">16c27d28736fc7107517f8ec4ab8b7d8</dashboard><dashboard_tab display_value="New Tab 2">13c2b5a8736fc7107517f8ec4ab8b77b</dashboard_tab><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:30:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>abc2b5a8736fc7107517f8ec4ab8b7d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_abc2b5a8736fc7107517f8ec4ab8b7d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:30:37</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>-214646530</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>08658fb073678b107517f8ec4ab8b77d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8aae4310000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>33c2b5a8be6fc71083fabea717fe62da</update_guid>
+<update_guid_history>33c2b5a8be6fc71083fabea717fe62da:-214646530</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_tab_13c2b5a8736fc7107517f8ec4ab8b77b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">16c27d28736fc7107517f8ec4ab8b7d8</dashboard><name>New Tab 2</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:30:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>13c2b5a8736fc7107517f8ec4ab8b77b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_tab_13c2b5a8736fc7107517f8ec4ab8b77b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:30:36</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+<payload_hash>1048143364</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>0c658fb073678b107517f8ec4ab8b77e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8aae06d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>New Tab 2</target_name>
+<type>PAR Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>6fc2b5a8d56fc710f0b23a8ab74235d5</update_guid>
+<update_guid_history>6fc2b5a8d56fc710f0b23a8ab74235d5:1048143364</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_visibility_60d2b5a8736fc7107517f8ec4ab8b7dc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">16c27d28736fc7107517f8ec4ab8b7d8</dashboard><experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:30:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>60d2b5a8736fc7107517f8ec4ab8b7dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_visibility_60d2b5a8736fc7107517f8ec4ab8b7dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:30:40</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+<payload_hash>1033967011</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>10658fb073678b107517f8ec4ab8b780</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8aaf2c40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Visibility</type>
+<update_domain>global</update_domain>
+<update_guid>e4d2b5a8ec6fc710f2fc407b0fb44cdf</update_guid>
+<update_guid_history>e4d2b5a8ec6fc710f2fc407b0fb44cdf:1033967011</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_source_b470ee2073e30b107517f8ec4ab8b747</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source"><sys_report_source action="INSERT_OR_UPDATE"><description/><display>Incidents by ShopSphere CI (Incident)</display><filter table="incident">cmdb_ci.nameSTARTSWITHSHOP^ORcmdb_ci.nameSTARTSWITHShopSphere<item endquery="false" field="cmdb_ci.name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="SHOP"/><item endquery="false" field="cmdb_ci.name" goto="false" newquery="false" operator="STARTSWITH" or="true" value="ShopSphere"/></filter><name>Incidents by ShopSphere CI</name><sys_class_name>sys_report_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:50:14</sys_created_on><sys_id>b470ee2073e30b107517f8ec4ab8b747</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Incidents by ShopSphere CI (Incident)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_source_b470ee2073e30b107517f8ec4ab8b747</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:50:14</sys_updated_on><table>incident</table></sys_report_source></record_update>]]></payload>
+<payload_hash>-1856302954</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>10658fb073678b107517f8ec4ab8b785</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c961a52f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table>incident</table>
+<target_name>Incidents by ShopSphere CI (Incident)</target_name>
+<type>Report Source</type>
+<update_domain>global</update_domain>
+<update_guid>bb7062605ee30b10ce57f2a70eb78dfb</update_guid>
+<update_guid_history>bb7062605ee30b10ce57f2a70eb78dfb:-1856302954</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_dc52ea2473e30b107517f8ec4ab8b78d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">6fda52a473a30b107517f8ec4ab8b784</canvas><component display_value="Semi donut">3809c6583b8dd540a0bf735ed493bae2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":true,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":true,"showRegisterValue":true,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":true,"showPercentageOfTotalInTooltip":true,"colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Incident","sourceType":"table","tableOrViewName":"incident","reportSourceSysId":"b470ee2073e30b107517f8ec4ab8b747","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGVpbmNpZGVudDE3OTAwODUxMjA0NjY=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"lineClamp":1,"headerTitleAlignment":"start","wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":true,"headingLevel":2,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"dGFibGVpbmNpZGVudDE3OTAwODUxMjA0NjY=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNPVEF3T0RVeE1qQTBOalk9MTc5MDA4NTE0Nzg0MA==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGVpbmNpZGVudDE3OTAwODUxMjA0NjY=","groupByField":"active","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":true,"showThreshold":false,"showComment":false,"showTotalValue":true,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":true,"componentId":"jxmd4w41","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"autoAggregatePeriods":false,"showChangeFrom":false,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showExportOptions":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","filterPerMetric":[],"scoreType":null,"backgroundRefreshInterval":1,"chartInteractionAction":"applyAsFilter","description":"","headerTitle":"ShopSphere Incidents by Configuration Item"}</component_props><h>12</h><name/><required_translations>[{"message":"Incident","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.dc52ea2473e30b107517f8ec4ab8b78d"},{"message":"ShopSphere Incidents by Configuration Item","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.dc52ea2473e30b107517f8ec4ab8b78d"},{"message":"No data available.","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.dc52ea2473e30b107517f8ec4ab8b78d"},{"message":"There are no scores available for the selected criteria. Contact your admin for more info.","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.dc52ea2473e30b107517f8ec4ab8b78d"}]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:58:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dc52ea2473e30b107517f8ec4ab8b78d</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_widget_dc52ea2473e30b107517f8ec4ab8b78d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 16:13:55</sys_updated_on><visualization/><w>16</w><widget_props/><x>24</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>1448929381</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>14658fb073678b107517f8ec4ab8b781</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c9e532d20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>ac61cbec6da70b10f9d083bb12f2b915</update_guid>
+<update_guid_history>ac61cbec6da70b10f9d083bb12f2b915:1448929381,1e1143ec8fa70b1093a5d14151a405d5:1308635881,4c9e3e6807a70b10a86f5cb0ccdaaab9:1113776036,5852ea245fe30b102c85407eaf72dc90:-767573751</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_script_6334f0dc73e747107517f8ec4ab8b720</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_script"&gt;&lt;sys_transform_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;map display_value="ShopSphere Server Import via IRE"&gt;7bc3349c73e747107517f8ec4ab8b720&lt;/map&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[(function runTransformScript(source, map, log, target) {
+
+    var ciName = source.u_name.toString();
+    var serialNumber = source.u_serial_number.toString();
+    var ipAddress = source.u_ip_address.toString();
+    var description = source.u_short_description.toString();
+
+    if (!ciName || !serialNumber) {
+        log.error(
+            'ShopSphere IRE import skipped: Name or Serial Number is missing.'
+        );
+        ignore = true;
+        return;
+    }
+
+    var payload = {
+        items: [
+            {
+                className: 'cmdb_ci_linux_server',
+                values: {
+                    name: ciName,
+                    serial_number: serialNumber,
+                    ip_address: ipAddress,
+                    short_description: description
+                }
+            }
+        ]
+    };
+
+    try {
+        var input = JSON.stringify(payload);
+
+        var output =
+            sn_cmdb.IdentificationEngine.createOrUpdateCI(
+                'ServiceNow',
+                input
+            );
+
+        log.info(
+            'ShopSphere IRE result for ' +
+            ciName +
+            ': ' +
+            output
+        );
+    } catch (ex) {
+        log.error(
+            'ShopSphere IRE failure for ' +
+            ciName +
+            ': ' +
+            ex.message
+        );
+    }
+
+    /*
+     * IRE already performed the insert or update.
+     * Prevent the standard Transform Map from writing another record.
+     */
+    ignore = true;
+
+})(source, map, log, target);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_transform_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-21 11:21:14&lt;/sys_created_on&gt;&lt;sys_id&gt;6334f0dc73e747107517f8ec4ab8b720&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;onBefore&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_script_6334f0dc73e747107517f8ec4ab8b720&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-21 11:21:14&lt;/sys_updated_on&gt;&lt;when&gt;onBefore&lt;/when&gt;&lt;/sys_transform_script&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;6334f0dc73e747107517f8ec4ab8b720&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-21 11:21:13&lt;/sys_created_on&gt;&lt;sys_id&gt;47c4789c73e747107517f8ec4ab8b779&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-21 11:21:13&lt;/sys_updated_on&gt;&lt;table&gt;sys_transform_script&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-446550585</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>14658fb073678b107517f8ec4ab8b786</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c3b2dee40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table/>
+<target_name>onBefore</target_name>
+<type>Transform Script</type>
+<update_domain>global</update_domain>
+<update_guid>97c4789c10e74710663bb3baca22c17f</update_guid>
+<update_guid_history>97c4789c10e74710663bb3baca22c17f:-446550585</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_tabs_d9aa1a6473a30b107517f8ec4ab8b748</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page display_value="New Tab 1">09aa1a6473a30b107517f8ec4ab8b743</canvas_page><name>d9aa1a6473a30b107517f8ec4ab8b748New Tab 1</name><page display_value="New Tab 1">c9aa962473a30b107517f8ec4ab8b721</page><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:24:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d9aa1a6473a30b107517f8ec4ab8b748</sys_id><sys_mod_count>1</sys_mod_count><sys_name>d9aa1a6473a30b107517f8ec4ab8b748New Tab 1</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_tabs_d9aa1a6473a30b107517f8ec4ab8b748</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:24:41</sys_updated_on></pa_tabs></record_update>]]></payload>
+<payload_hash>-1679912020</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>18658fb073678b107517f8ec4ab8b782</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94a42a60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table/>
+<target_name>d9aa1a6473a30b107517f8ec4ab8b748New Tab 1</target_name>
+<type>Tab</type>
+<update_domain>global</update_domain>
+<update_guid>6daa1a6448a30b1091683f60fbe49176</update_guid>
+<update_guid_history>6daa1a6448a30b1091683f60fbe49176:-1679912020,21aa1a64faa30b10c60467074ce9844c:1455004484</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_43a039a0736fc7107517f8ec4ab8b7e0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report"><sys_report action="INSERT_OR_UPDATE"><active>true</active><additional_groupby/><aggregate>COUNT</aggregate><aggregation_source>no_override</aggregation_source><allow_data_label_overlap>false</allow_data_label_overlap><apply_alias>false</apply_alias><axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color><axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color><bar_unstack>false</bar_unstack><calendar/><certified>false</certified><chart_background_color/><chart_border_color/><chart_border_radius>0</chart_border_radius><chart_border_width>1</chart_border_width><chart_height>450</chart_height><chart_size>large</chart_size><chart_subtitle/><chart_subtitle_color/><chart_subtitle_size>14</chart_subtitle_size><chart_subtitle_style>normal</chart_subtitle_style><chart_title/><chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color><chart_title_size>16</chart_title_size><chart_title_style>normal</chart_title_style><chart_title_x_position>0</chart_title_x_position><chart_title_y_position>0</chart_title_y_position><chart_width>600</chart_width><color display_value="Default Color">de699435d7033100b4964ebfae610331</color><color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette><colors/><column/><compute_percent>aggregate</compute_percent><content/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><custom_chart_size>false</custom_chart_size><custom_chart_title_position>false</custom_chart_title_position><custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config><decimal_precision>2</decimal_precision><description/><direction>minimize</direction><display_column_lines>false</display_column_lines><display_grid>false</display_grid><display_row_lines>false</display_row_lines><donut_width_percent>30</donut_width_percent><end_time/><exp_report_attrs>true</exp_report_attrs><field>sys_class_name</field><field_list>name,manufacturer,location,short_description,sys_class_name,sys_updated_on,maintenance_schedule</field_list><filter table="cmdb_ci">nameSTARTSWITHSHOP^ORnameSTARTSWITHShopSphere<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="SHOP"/><item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="true" value="ShopSphere"/></filter><formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration><from/><funnel_neck_percent>30</funnel_neck_percent><gauge_autoscale>true</gauge_autoscale><group/><import_table/><interval>year</interval><is_published>false</is_published><is_real_time>false</is_real_time><is_scheduled>false</is_scheduled><legend_align_columns>true</legend_align_columns><legend_background_color/><legend_border_color/><legend_border_radius>0</legend_border_radius><legend_border_width>1</legend_border_width><legend_horizontal_alignment>center</legend_horizontal_alignment><legend_items_left_align>false</legend_items_left_align><legend_vertical_alignment>bottom</legend_vertical_alignment><list_ui_view/><location_field/><lower_limit/><macroponent/><map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map><map_source/><name/><no_bulk_migration>false</no_bulk_migration><orderby_list/><other_threshold>-2</other_threshold><others>true</others><page_hdrftr/><pivot_expanded>true</pivot_expanded><properties/><report_drilldown/><report_source/><requested_by/><required_translations/><roles/><row/><sc_groupby_item_id/><sc_groupby_variable_id/><sc_stackby_item_id/><sc_stackby_variable_id/><score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color><series_name_text/><set_color>color_palette</set_color><show_chart_border>false</show_chart_border><show_chart_data_label>false</show_chart_data_label><show_chart_title>report</show_chart_title><show_chart_total>false</show_chart_total><show_data_label_position_middle>false</show_data_label_position_middle><show_empty>false</show_empty><show_geographical_label>false</show_geographical_label><show_legend>true</show_legend><show_legend_border>false</show_legend_border><show_marker>false</show_marker><show_zero>false</show_zero><source_type>table</source_type><start_time/><style_config/><sumfield/><sys_class_name>sys_report</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:21:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>43a039a0736fc7107517f8ec4ab8b7e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ShopSphere CIs by Class</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_43a039a0736fc7107517f8ec4ab8b7e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:21:18</sys_updated_on><table>cmdb_ci</table><title>ShopSphere CIs by Class</title><title_horizontal_alignment>center</title_horizontal_alignment><title_vertical_alignment>top</title_vertical_alignment><to/><trend_field/><type>donut</type><upper_limit/><use_color_heatmap>false</use_color_heatmap><use_null_in_trend>false</use_null_in_trend><user>6816f79cc0a8016401c5a33be04be441</user><x_axis_allow_decimals>true</x_axis_allow_decimals><x_axis_display_grid>false</x_axis_display_grid><x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color><x_axis_grid_dotted>false</x_axis_grid_dotted><x_axis_grid_width>1</x_axis_grid_width><x_axis_label_bold>false</x_axis_label_bold><x_axis_label_color/><x_axis_label_size>11</x_axis_label_size><x_axis_label_tilt>0</x_axis_label_tilt><x_axis_opposite>false</x_axis_opposite><x_axis_title/><x_axis_title_bold>true</x_axis_title_bold><x_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</x_axis_title_color><x_axis_title_size>12</x_axis_title_size><y_axis_allow_decimals>true</y_axis_allow_decimals><y_axis_display_grid>true</y_axis_display_grid><y_axis_from/><y_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</y_axis_grid_color><y_axis_grid_dotted>false</y_axis_grid_dotted><y_axis_grid_width>1</y_axis_grid_width><y_axis_label_bold>false</y_axis_label_bold><y_axis_label_color/><y_axis_label_size>11</y_axis_label_size><y_axis_label_tilt>0</y_axis_label_tilt><y_axis_opposite>false</y_axis_opposite><y_axis_title/><y_axis_title_bold>true</y_axis_title_bold><y_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</y_axis_title_color><y_axis_title_size>12</y_axis_title_size><y_axis_to/></sys_report></record_update>]]></payload>
+<payload_hash>1481371328</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>1c658fb073678b107517f8ec4ab8b783</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8a26b9e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table>cmdb_ci</table>
+<target_name>ShopSphere CIs by Class</target_name>
+<type>Report</type>
+<update_domain>global</update_domain>
+<update_guid>50b0b1a4956fc710df97b376c22fa01b</update_guid>
+<update_guid_history>50b0b1a4956fc710df97b376c22fa01b:1481371328,08b0b1a44f6fc710001bff85eb432816:1101156850,77a071a4416fc71059e20edaf137eedf:1481371328</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_health_config_ebac956c73abc7107517f8ec4ab8b715</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_health_config"><cmdb_health_config action="INSERT_OR_UPDATE"><active_record_condition table="cmdb_ci_linux_server">nameSTARTSWITHSHOP-^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="SHOP-"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></active_record_condition><applies_to>cmdb_ci_linux_server</applies_to><metric display_value="Recommended">c7d72b5137130200f212cc028e41f1bd</metric><sys_class_name>cmdb_health_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 08:53:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ebac956c73abc7107517f8ec4ab8b715</sys_id><sys_mod_count>1</sys_mod_count><sys_name>cmdb_ci_linux_server</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_health_config_ebac956c73abc7107517f8ec4ab8b715</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 08:58:43</sys_updated_on></cmdb_health_config></record_update>]]></payload>
+<payload_hash>1011797706</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:50</sys_created_on>
+<sys_id>40658fb073678b107517f8ec4ab8b77b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c856bf5d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:50</sys_updated_on>
+<table/>
+<target_name>cmdb_ci_linux_server</target_name>
+<type>CMDB Health Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>a5cd95ecc8abc7104a47a856c0c3b7a6</update_guid>
+<update_guid_history>a5cd95ecc8abc7104a47a856c0c3b7a6:1011797706,bbac956cc5abc710f6c08dba2a17f91a:-1698537117</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_tab_57da52a473a30b107517f8ec4ab8b780</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="ShopSphere">c7da5e6473a30b107517f8ec4ab8b767</dashboard><name>New Tab 3</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:25:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>57da52a473a30b107517f8ec4ab8b780</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 3</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_tab_57da52a473a30b107517f8ec4ab8b780</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:25:38</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+<payload_hash>497500031</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>40658fb073678b107517f8ec4ab8b77f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94b1fb90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>New Tab 3</target_name>
+<type>PAR Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>efda52a46ea30b10c29785556b732382</update_guid>
+<update_guid_history>efda52a46ea30b10c29785556b732382:497500031</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_4bc2b5a8736fc7107517f8ec4ab8b775</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">16c27d28736fc7107517f8ec4ab8b7d8</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:30:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4bc2b5a8736fc7107517f8ec4ab8b775</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_4bc2b5a8736fc7107517f8ec4ab8b775</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:30:35</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>1587519271</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>48658fb073678b107517f8ec4ab8b77c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8aadcb00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>dfc2b5a8876fc7106ac8656f4412ca78</update_guid>
+<update_guid_history>dfc2b5a8876fc7106ac8656f4412ca78:1587519271</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_8687b16073afc7107517f8ec4ab8b78e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">16c27d28736fc7107517f8ec4ab8b7d8</dashboard><group/><owner>false</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:51:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8687b16073afc7107517f8ec4ab8b78e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>16c27d28736fc7107517f8ec4ab8b7d8</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_permission_8687b16073afc7107517f8ec4ab8b78e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:51:15</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>72344898</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>4c658fb073678b107517f8ec4ab8b77d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8bdc8480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>16c27d28736fc7107517f8ec4ab8b7d8</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>4a87b16051afc710f730a28362524591</update_guid>
+<update_guid_history>4a87b16051afc710f730a28362524591:72344898</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_f1b13de4736fc7107517f8ec4ab8b7da</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report"><sys_report action="INSERT_OR_UPDATE"><active>true</active><additional_groupby/><aggregate>COUNT</aggregate><aggregation_source>no_override</aggregation_source><allow_data_label_overlap>false</allow_data_label_overlap><apply_alias>false</apply_alias><axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color><axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color><bar_unstack>false</bar_unstack><calendar/><certified>false</certified><chart_background_color/><chart_border_color/><chart_border_radius>0</chart_border_radius><chart_border_width>1</chart_border_width><chart_height>450</chart_height><chart_size>large</chart_size><chart_subtitle/><chart_subtitle_color/><chart_subtitle_size>14</chart_subtitle_size><chart_subtitle_style>normal</chart_subtitle_style><chart_title/><chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color><chart_title_size>16</chart_title_size><chart_title_style>normal</chart_title_style><chart_title_x_position>0</chart_title_x_position><chart_title_y_position>0</chart_title_y_position><chart_width>600</chart_width><color display_value="Default Color">de699435d7033100b4964ebfae610331</color><color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette><colors/><column/><compute_percent>aggregate</compute_percent><content/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><custom_chart_size>false</custom_chart_size><custom_chart_title_position>false</custom_chart_title_position><custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config><decimal_precision>2</decimal_precision><description/><direction>minimize</direction><display_column_lines>false</display_column_lines><display_grid>false</display_grid><display_row_lines>false</display_row_lines><donut_width_percent>30</donut_width_percent><end_time/><exp_report_attrs>true</exp_report_attrs><field>operational_status</field><field_list>name,manufacturer,location,short_description,sys_class_name,sys_updated_on,maintenance_schedule</field_list><filter table="cmdb_ci">nameSTARTSWITHSHOP^ORnameSTARTSWITHShopSphere<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="SHOP"/><item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="true" value="ShopSphere"/></filter><formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration><from/><funnel_neck_percent>30</funnel_neck_percent><gauge_autoscale>true</gauge_autoscale><group/><import_table/><interval>year</interval><is_published>false</is_published><is_real_time>false</is_real_time><is_scheduled>false</is_scheduled><legend_align_columns>true</legend_align_columns><legend_background_color/><legend_border_color/><legend_border_radius>0</legend_border_radius><legend_border_width>1</legend_border_width><legend_horizontal_alignment>center</legend_horizontal_alignment><legend_items_left_align>false</legend_items_left_align><legend_vertical_alignment>bottom</legend_vertical_alignment><list_ui_view/><location_field/><lower_limit/><macroponent/><map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map><map_source/><name>ShopSphere CI Operational Status</name><no_bulk_migration>false</no_bulk_migration><orderby_list/><other_threshold>-2</other_threshold><others>true</others><page_hdrftr/><pivot_expanded>true</pivot_expanded><properties/><report_drilldown/><report_source/><requested_by/><required_translations/><roles/><row/><sc_groupby_item_id/><sc_groupby_variable_id/><sc_stackby_item_id/><sc_stackby_variable_id/><score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color><series_name_text/><set_color>color_palette</set_color><show_chart_border>false</show_chart_border><show_chart_data_label>false</show_chart_data_label><show_chart_title>report</show_chart_title><show_chart_total>false</show_chart_total><show_data_label_position_middle>false</show_data_label_position_middle><show_empty>false</show_empty><show_geographical_label>false</show_geographical_label><show_legend>true</show_legend><show_legend_border>false</show_legend_border><show_marker>false</show_marker><show_zero>false</show_zero><source_type>table</source_type><start_time/><style_config/><sumfield/><sys_class_name>sys_report</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:25:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>f1b13de4736fc7107517f8ec4ab8b7da</sys_id><sys_mod_count>2</sys_mod_count><sys_name>ShopSphere CI Operational Status</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_f1b13de4736fc7107517f8ec4ab8b7da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:39:16</sys_updated_on><table>cmdb_ci</table><title>ShopSphere CI Operational Status</title><title_horizontal_alignment>center</title_horizontal_alignment><title_vertical_alignment>top</title_vertical_alignment><to/><trend_field/><type>semi_donut</type><upper_limit/><use_color_heatmap>false</use_color_heatmap><use_null_in_trend>false</use_null_in_trend><user>6816f79cc0a8016401c5a33be04be441</user><x_axis_allow_decimals>true</x_axis_allow_decimals><x_axis_display_grid>false</x_axis_display_grid><x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color><x_axis_grid_dotted>false</x_axis_grid_dotted><x_axis_grid_width>1</x_axis_grid_width><x_axis_label_bold>false</x_axis_label_bold><x_axis_label_color/><x_axis_label_size>11</x_axis_label_size><x_axis_label_tilt>0</x_axis_label_tilt><x_axis_opposite>false</x_axis_opposite><x_axis_title/><x_axis_title_bold>true</x_axis_title_bold><x_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</x_axis_title_color><x_axis_title_size>12</x_axis_title_size><y_axis_allow_decimals>true</y_axis_allow_decimals><y_axis_display_grid>true</y_axis_display_grid><y_axis_from/><y_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</y_axis_grid_color><y_axis_grid_dotted>false</y_axis_grid_dotted><y_axis_grid_width>1</y_axis_grid_width><y_axis_label_bold>false</y_axis_label_bold><y_axis_label_color/><y_axis_label_size>11</y_axis_label_size><y_axis_label_tilt>0</y_axis_label_tilt><y_axis_opposite>false</y_axis_opposite><y_axis_title/><y_axis_title_bold>true</y_axis_title_bold><y_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</y_axis_title_color><y_axis_title_size>12</y_axis_title_size><y_axis_to/></sys_report></record_update>]]></payload>
+<payload_hash>726318850</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>50658fb073678b107517f8ec4ab8b784</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c9579db60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table>cmdb_ci</table>
+<target_name>ShopSphere CI Operational Status</target_name>
+<type>Report</type>
+<update_domain>global</update_domain>
+<update_guid>d3fd162ce2a30b10ff4afdb28d3eb2be</update_guid>
+<update_guid_history>d3fd162ce2a30b10ff4afdb28d3eb2be:726318850,66b1b128b86fc7104ef0ad8d7211ab81:120738028,9eb1b128166fc71026fc7adeef201f7d:726318850,1eb13de45f6fc71079f85eb708ac8de4:120738028</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_visibility_efda52a473a30b107517f8ec4ab8b788</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="ShopSphere">c7da5e6473a30b107517f8ec4ab8b767</dashboard><experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:25:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>efda52a473a30b107517f8ec4ab8b788</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_visibility_efda52a473a30b107517f8ec4ab8b788</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:25:39</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+<payload_hash>-716974020</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>54658fb073678b107517f8ec4ab8b780</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94b23720000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Visibility</type>
+<update_domain>global</update_domain>
+<update_guid>7bda52a4b3a30b10b1a995d0ef0b47a4</update_guid>
+<update_guid_history>7bda52a4b3a30b10b1a995d0ef0b47a4:-716974020</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_users_groups_077231e4736fc7107517f8ec4ab8b773</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">437231e4736fc7107517f8ec4ab8b772</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:29:13</sys_created_on><sys_id>077231e4736fc7107517f8ec4ab8b773</sys_id><sys_mod_count>0</sys_mod_count><sys_name>437231e4736fc7107517f8ec4ab8b772</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_users_groups_077231e4736fc7107517f8ec4ab8b773</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:29:13</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+<payload_hash>1671350697</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>54658fb073678b107517f8ec4ab8b785</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8a99b950000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table/>
+<target_name>437231e4736fc7107517f8ec4ab8b772</target_name>
+<type>Report Users and Groups</type>
+<update_domain>global</update_domain>
+<update_guid>5372b968376fc710aef0259e0dcccf57</update_guid>
+<update_guid_history>5372b968376fc710aef0259e0dcccf57:1671350697</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_visualization_2744356c736fc7107517f8ec4ab8b715</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization"><par_visualization action="INSERT_OR_UPDATE"><active>true</active><certified>false</certified><description/><macroponent display_value="Single score">d24d53f60350de7a652caf3188a46ed2</macroponent><name>Shopsphere</name><properties>{"scoreSize":"auto","scoreAlignment":"start","headingPosition":"top","sparklineStyle":"area","scoreIcon":"","iconStyle":"background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"wrapElements":false,"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"lineClamp":1,"headerTitleAlignment":"start","wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"refreshRequest":"","showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"dataPassthrough":null,"sortByOrder":"desc","showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"configPropModifiers":{},"showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"autoAggregatePeriods":false,"scoreType":"latest","showChangeFrom":"previous","useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showExportOptions":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","sharedContext":{},"colors":{},"filterConfigurations":[]}</properties><requested_by/><required_translations>[{"message":"No data available.","comment":"","code":"PAR_COMPONENT.2744356c736fc7107517f8ec4ab8b715"},{"message":"There are no scores available for the selected criteria. Contact your admin for more info.","comment":"","code":"PAR_COMPONENT.2744356c736fc7107517f8ec4ab8b715"}]</required_translations><scheduled_count>0</scheduled_count><sys_class_name>par_visualization</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:37:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>2744356c736fc7107517f8ec4ab8b715</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Shopsphere</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_visualization_2744356c736fc7107517f8ec4ab8b715</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:37:11</sys_updated_on><type>single_score</type></par_visualization></record_update>]]></payload>
+<payload_hash>-988502204</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>58658fb073678b107517f8ec4ab8b781</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8b0e8320000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>Shopsphere</target_name>
+<type>PAR Visualization</type>
+<update_domain>global</update_domain>
+<update_guid>c054b56c086fc710a030db715ac2289c</update_guid>
+<update_guid_history>c054b56c086fc710a030db715ac2289c:-988502204,c054b56c8b6fc710b3ce58901969b599:-988502204</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_translated_bdaa1a6473a30b107517f8ec4ab8b778</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated"><sys_translated action="INSERT_OR_UPDATE"><element>name</element><id/><label>New Tab 1</label><language>en</language><name>pa_tabs</name><sys_class_name>sys_translated</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:24:42</sys_created_on><sys_id>bdaa1a6473a30b107517f8ec4ab8b778</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_translated_bdaa1a6473a30b107517f8ec4ab8b778</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:24:42</sys_updated_on><value>d9aa1a6473a30b107517f8ec4ab8b748New Tab 1</value></sys_translated></record_update>]]></payload>
+<payload_hash>709730694</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>58658fb073678b107517f8ec4ab8b786</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94a455c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table>pa_tabs</table>
+<target_name>New Tab 1</target_name>
+<type>Translated Name / Field</type>
+<update_domain>global</update_domain>
+<update_guid>75aa1a64bfa30b10615d8cf65635777c</update_guid>
+<update_guid_history>75aa1a64bfa30b10615d8cf65635777c:709730694</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_09aa1a6473a30b107517f8ec4ab8b743</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="New Tab 1">c9aa962473a30b107517f8ec4ab8b721</legacy_page><name>New Tab 1</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:24:40</sys_created_on><sys_id>09aa1a6473a30b107517f8ec4ab8b743</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_09aa1a6473a30b107517f8ec4ab8b743</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:24:40</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+<payload_hash>577528585</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>5c658fb073678b107517f8ec4ab8b782</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94a3bf90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table/>
+<target_name>New Tab 1</target_name>
+<type>Grid Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>5daa1a64e5a30b1037f40160b8b50946</update_guid>
+<update_guid_history>5daa1a64e5a30b1037f40160b8b50946:577528585</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_c3da52a473a30b107517f8ec4ab8b734</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="ShopSphere">c7da5e6473a30b107517f8ec4ab8b767</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:25:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c3da52a473a30b107517f8ec4ab8b734</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c7da5e6473a30b107517f8ec4ab8b767</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_permission_c3da52a473a30b107517f8ec4ab8b734</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:25:37</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>-1161533973</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>80658fb073678b107517f8ec4ab8b77e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94b1af10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>c7da5e6473a30b107517f8ec4ab8b767</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>07da52a448a30b10415990e5972c5637</update_guid>
+<update_guid_history>07da52a448a30b10415990e5972c5637:-1161533973</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_user_metadata_13da52a473a30b107517f8ec4ab8b739</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>24</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2026-09-22 13:25:37</created_on><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">c7da5e6473a30b107517f8ec4ab8b767</dashboard><edit_locked>{"sysId":"6816f79cc0a8016401c5a33be04be441","name":"System Administrator","avatar":"a5d3c898c3222010ae17dd981840dd8b.iix?t=small","lockedOn":"1790092752589"}</edit_locked><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_insight_sentiment>false</include_insight_sentiment><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_deactivated_on/><last_updated_on>2026-09-22 16:13:57</last_updated_on><po_project_id_list>[]</po_project_id_list><refresh_information>false</refresh_information><refresh_interval/><requested_by_user/><schedule_repetition>false</schedule_repetition><show_ai_insights_panel>false</show_ai_insights_panel><show_ai_summary>false</show_ai_summary><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:25:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>13da52a473a30b107517f8ec4ab8b739</sys_id><sys_mod_count>7</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_user_metadata_13da52a473a30b107517f8ec4ab8b739</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 16:13:57</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin>$now-global-space--sm</widgets_margin></par_dashboard_user_metadata></record_update>]]></payload>
+<payload_hash>-1266065046</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>84658fb073678b107517f8ec4ab8b77f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c9e53ae40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Metadata</type>
+<update_domain>global</update_domain>
+<update_guid>0161cbecd5a70b100ec554f1c04b5b48</update_guid>
+<update_guid_history>0161cbecd5a70b100ec554f1c04b5b48:-1266065046,c71183ecf6a70b109e28dbc052125092:-1567929751,b9eef6a8a5a70b10309dadff294ada61:454908875,f89e7e6818a70b10130314d91c1bfd12:-93148434,0d0efa285fa70b10f1258d1acae4d63c:-2038586783,f00e7a2889a70b10d3324583208ba6f4:875194297,b852ea2449e30b10b09fbf051c261acf:1543628527,1fda52a434a30b1069e669282480ab3b:1648333406</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_6fda52a473a30b107517f8ec4ab8b784</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">c7da5e6473a30b107517f8ec4ab8b767</dashboard><dashboard_tab display_value="New Tab 3">57da52a473a30b107517f8ec4ab8b780</dashboard_tab><layout>[{"sys_id":"5852ea2473e30b107517f8ec4ab8b789","x":12,"y":0,"w":12,"h":12,"component_id":"3809c6583b8dd540a0bf735ed493bae2","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"showDataLabels\":true,\"dataLabelsType\":\"both\",\"truncationType\":\"end\",\"showRegister\":true,\"registerPosition\":\"bottom\",\"registerOrientation\":\"horizontal\",\"showRegisterOnSameLine\":true,\"showRegisterValue\":true,\"legendHorizontalAlignment\":\"center\",\"legendExpandToFit\":false,\"showRegisterPercentage\":true,\"showPercentageOfTotalInTooltip\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"enableAddZerosAtApi\":true,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"Configuration Item\",\"sourceType\":\"table\",\"tableOrViewName\":\"cmdb_ci\",\"reportSourceSysId\":\"64ed5ee873a30b107517f8ec4ab8b772\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGVjbWRiX2NpMTc5MDA4NDU4OTA4Mw==\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"lineClamp\":1,\"headerTitleAlignment\":\"start\",\"wrapTitle\":false,\"showLoadingIndicator\":false,\"showHeaderSeparator\":true,\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"allowAdditionalGroupByPerMetric\":false,\"metrics\":[{\"dataSource\":\"dGFibGVjbWRiX2NpMTc5MDA4NDU4OTA4Mw==\",\"id\":\"ZEdGaWJHVmpiV1JpWDJOcE1UYzVNREE0TkRVNE9UQTRNdz09MTc5MDA4NDg1OTI4Mw==\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"groupBy\":[{\"groupBy\":[{\"dataSource\":\"dGFibGVjbWRiX2NpMTc5MDA4NDU4OTA4Mw==\",\"groupByField\":\"operational_status\",\"isRange\":false,\"isChoice\":true,\"isPaBucket\":false}],\"maxNumberOfGroups\":10,\"numberOfGroupsBasedOn\":\"NO_OF_GROUP_BASED_ON_PER_METRIC\",\"showOthers\":false,\"disableRanges\":false}],\"sortBy\":\"value\",\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":true,\"showThreshold\":false,\"showComment\":false,\"showTotalValue\":true,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"showDataTable\":false,\"enableCustomEmptyState\":false,\"componentId\":\"4fbkfjm4\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateHeadingLevel\":3,\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"autoAggregatePeriods\":false,\"showChangeFrom\":\"previous\",\"useCurrentDateForEnd\":false,\"period\":\"M\",\"useDataCache\":false,\"cacheExpirationTime\":0,\"showCacheTime\":true,\"dateFormat\":\"default\",\"showRefresh\":true,\"showExportOptions\":true,\"showFilterAsSeparateSeries\":false,\"userInfo\":\"@context.session.user\",\"headerTitle\":\"ShopSphere CI Operational Status\"}","can_edit":true},{"sys_id":"bb42e66073e30b107517f8ec4ab8b716","x":0,"y":0,"w":12,"h":12,"component_id":"a2b0596cec6b9d49dd1ff9bf76b5084b","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"showDataLabels\":true,\"dataLabelsType\":\"both\",\"truncationType\":\"end\",\"showRegister\":true,\"registerPosition\":\"bottom\",\"registerOrientation\":\"horizontal\",\"showRegisterOnSameLine\":true,\"showRegisterValue\":true,\"legendHorizontalAlignment\":\"center\",\"legendExpandToFit\":true,\"showRegisterPercentage\":false,\"showPercentageOfTotalInTooltip\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"enableAddZerosAtApi\":true,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"Configuration Item\",\"sourceType\":\"table\",\"tableOrViewName\":\"cmdb_ci\",\"reportSourceSysId\":\"4e097da473afc7107517f8ec4ab8b734\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGVjbWRiX2NpMTc5MDA4Mzk2NDg2OQ==\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"lineClamp\":1,\"headerTitleAlignment\":\"start\",\"wrapTitle\":false,\"showLoadingIndicator\":false,\"showHeaderSeparator\":true,\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"allowAdditionalGroupByPerMetric\":false,\"metrics\":[{\"dataSource\":\"dGFibGVjbWRiX2NpMTc5MDA4Mzk2NDg2OQ==\",\"id\":\"ZEdGaWJHVmpiV1JpWDJOcE1UYzVNREE0TXprMk5EZzJPUT09MTc5MDA4Mzk5NzU5Mw==\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"groupBy\":[{\"groupBy\":[{\"dataSource\":\"dGFibGVjbWRiX2NpMTc5MDA4Mzk2NDg2OQ==\",\"groupByField\":\"sys_class_name\",\"isRange\":false,\"isChoice\":true,\"isPaBucket\":false}],\"maxNumberOfGroups\":10,\"numberOfGroupsBasedOn\":\"NO_OF_GROUP_BASED_ON_PER_METRIC\",\"showOthers\":false,\"disableRanges\":false}],\"sortBy\":\"value\",\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":false,\"showThreshold\":false,\"showComment\":false,\"showTotalValue\":true,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"showDataTable\":false,\"enableCustomEmptyState\":true,\"componentId\":\"3tliztsz\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateHeadingLevel\":3,\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"autoAggregatePeriods\":false,\"showChangeFrom\":\"previous\",\"useCurrentDateForEnd\":false,\"period\":\"M\",\"useDataCache\":false,\"cacheExpirationTime\":0,\"showCacheTime\":true,\"dateFormat\":\"default\",\"showRefresh\":true,\"showExportOptions\":true,\"showFilterAsSeparateSeries\":false,\"userInfo\":\"@context.session.user\",\"headerTitle\":\"ShopSphere CIs by Class\"}","can_edit":true},{"sys_id":"dc52ea2473e30b107517f8ec4ab8b78d","x":24,"y":0,"w":12,"h":12,"component_id":"3809c6583b8dd540a0bf735ed493bae2","component_props":"{\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"showDataLabels\":true,\"dataLabelsType\":\"both\",\"truncationType\":\"end\",\"showRegister\":true,\"registerPosition\":\"bottom\",\"registerOrientation\":\"horizontal\",\"showRegisterOnSameLine\":true,\"showRegisterValue\":true,\"legendHorizontalAlignment\":\"center\",\"legendExpandToFit\":false,\"showRegisterPercentage\":true,\"showPercentageOfTotalInTooltip\":true,\"colorConfig\":{\"type\":\"default\"},\"newReporting\":false,\"enableAddZerosAtApi\":true,\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"Incident\",\"sourceType\":\"table\",\"tableOrViewName\":\"incident\",\"reportSourceSysId\":\"b470ee2073e30b107517f8ec4ab8b747\",\"preferredVisualizations\":[\"d24d53f60350de7a652caf3188a46ed2\"],\"id\":\"dGFibGVpbmNpZGVudDE3OTAwODUxMjA0NjY=\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"hideMatrixAggregate\":false,\"lineClamp\":1,\"headerTitleAlignment\":\"start\",\"wrapTitle\":false,\"showLoadingIndicator\":false,\"showHeaderSeparator\":true,\"headingLevel\":2,\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"showAdditionalGroupBySelector\":false,\"allowAdditionalGroupByPerMetric\":false,\"metrics\":[{\"dataSource\":\"dGFibGVpbmNpZGVudDE3OTAwODUxMjA0NjY=\",\"id\":\"ZEdGaWJHVnBibU5wWkdWdWRERTNPVEF3T0RVeE1qQTBOalk9MTc5MDA4NTE0Nzg0MA==\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"groupBy\":[{\"groupBy\":[{\"dataSource\":\"dGFibGVpbmNpZGVudDE3OTAwODUxMjA0NjY=\",\"groupByField\":\"active\",\"isRange\":false,\"isChoice\":false,\"isPaBucket\":false}],\"maxNumberOfGroups\":10,\"numberOfGroupsBasedOn\":\"NO_OF_GROUP_BASED_ON_PER_METRIC\",\"showOthers\":false,\"disableRanges\":false}],\"sortBy\":\"value\",\"sortByOrder\":\"desc\",\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":true,\"showThreshold\":false,\"showComment\":false,\"showTotalValue\":true,\"followFilters\":true,\"showFilterIcon\":true,\"enableRealTimeUpdate\":false,\"enableDrilldown\":true,\"enableClickAndStay\":false,\"showDataTable\":false,\"enableCustomEmptyState\":true,\"componentId\":\"jxmd4w41\",\"emptyStateIllustration\":\"no-data\",\"emptyStateHeading\":\"No data available.\",\"emptyStateHeadingLevel\":3,\"emptyStateContent\":\"There are no scores available for the selected criteria. Contact your admin for more info.\",\"emptyStateAlignment\":\"vertical-centered\",\"hideDevSettings\":false,\"filterConfigurations\":\"@state.parFilters\",\"showMaximumRange\":false,\"allowChangeDateRange\":false,\"showDateRangeByDefault\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"autoAggregatePeriods\":false,\"showChangeFrom\":false,\"useCurrentDateForEnd\":false,\"period\":\"M\",\"useDataCache\":false,\"cacheExpirationTime\":0,\"showCacheTime\":true,\"dateFormat\":\"default\",\"showRefresh\":true,\"showExportOptions\":true,\"showFilterAsSeparateSeries\":false,\"userInfo\":\"@context.session.user\",\"backgroundRefreshInterval\":1,\"chartInteractionAction\":\"applyAsFilter\",\"headerTitle\":\"ShopSphere Incidents by Configuration Item\"}","can_edit":true}]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:25:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6fda52a473a30b107517f8ec4ab8b784</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_6fda52a473a30b107517f8ec4ab8b784</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 16:13:56</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>-733955011</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>8c658fb073678b107517f8ec4ab8b77c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c9e535740000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>b861cbec84a70b10113f4570c92f511b</update_guid>
+<update_guid_history>b861cbec84a70b10113f4570c92f511b:-733955011,721183ec6ba70b10799a3c706169fa1a:1062528106,e9eeb6a804a70b10e454ac4e428882f6:-1186767417,d09e3e68dca70b109c040ff647e53bc0:76198618,23da52a4fba30b10ad15c1bbb0e96387:-601502567</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_hub_flow_2c12212873ebc7107517f8ec4ab8b78a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_hub_flow"&gt;&lt;sys_hub_flow action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_high_security_roles&gt;false&lt;/allow_high_security_roles&gt;&lt;annotation/&gt;&lt;attributes&gt;browserActivatedIn=safari,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=1924000,viewActivatedIn=naturalLanguage&lt;/attributes&gt;&lt;authored_on_release_version&gt;29000&lt;/authored_on_release_version&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description&gt;Assigns ShopSphere incidents to the support group defined on the selected CI&lt;/description&gt;&lt;display_name_after_preview/&gt;&lt;flow_priority&gt;MEDIUM&lt;/flow_priority&gt;&lt;generation_source/&gt;&lt;internal_name&gt;shopsphere_incident_assignment_from_ci&lt;/internal_name&gt;&lt;label_cache&gt;[{"name":"Created_1.current.cmdb_ci.name","label":"Trigger - Record Created➛Incident Record➛Configuration item➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"cmdb_ci","column_name":"name","choices":[{"order":0.0}],"usedInstances":{"0e2dbeb6-edd3-4591-b65a-15d625c31f1b":["condition"]}},{"name":"Created_1.current.cmdb_ci","label":"Trigger - Record Created➛Incident Record➛Configuration item","reference":"cmdb_ci","reference_display":"Configuration Item","type":"reference","base_type":"reference","parent_table_name":"incident","column_name":"cmdb_ci","choices":[{"order":0.0}],"usedInstances":{}},{"name":"Created_1.current","label":"Trigger - Record Created➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference","usedInstances":{"154da065-72a4-430a-b26f-aa42f22ce242":["record"]},"attributes":{}},{"name":"Created_1.current.cmdb_ci.support_group","label":"Trigger - Record Created➛Incident Record➛Configuration item➛Support group","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci","column_name":"support_group","usedInstances":{"0e2dbeb6-edd3-4591-b65a-15d625c31f1b":["condition"],"154da065-72a4-430a-b26f-aa42f22ce242":["assignment_group"]}}]&lt;/label_cache&gt;&lt;master_snapshot&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/master_snapshot&gt;&lt;master_snapshot_digest/&gt;&lt;name&gt;ShopSphere Incident Assignment from CI&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;pre_compiled&gt;false&lt;/pre_compiled&gt;&lt;remote_trigger_id&gt;3479e5e4732fc7107517f8ec4ab8b799&lt;/remote_trigger_id&gt;&lt;run_as&gt;system&lt;/run_as&gt;&lt;run_with_roles/&gt;&lt;sc_callable&gt;false&lt;/sc_callable&gt;&lt;show_draft_actions&gt;false&lt;/show_draft_actions&gt;&lt;show_triggered_flows&gt;false&lt;/show_triggered_flows&gt;&lt;status&gt;published&lt;/status&gt;&lt;substatus/&gt;&lt;sys_class_name&gt;sys_hub_flow&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:17:29&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;ShopSphere Incident Assignment from CI&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_hub_flow_2c12212873ebc7107517f8ec4ab8b78a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:44&lt;/sys_updated_on&gt;&lt;type&gt;flow&lt;/type&gt;&lt;updation_source/&gt;&lt;version&gt;2&lt;/version&gt;&lt;version_record&gt;a4e76124732fc7107517f8ec4ab8b7c5&lt;/version_record&gt;&lt;/sys_hub_flow&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_flow_record_trigger action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;condition table="incident"&gt;cmdb_ciISNOTEMPTY^cmdb_ci.nameSTARTSWITHSHOP-^cmdb_ci.support_groupISNOTEMPTY&lt;item endquery="false" field="cmdb_ci" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="false" field="cmdb_ci.name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="SHOP-"/&gt;&lt;item endquery="false" field="cmdb_ci.support_group" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;/condition&gt;&lt;name/&gt;&lt;on_delete&gt;false&lt;/on_delete&gt;&lt;on_insert&gt;true&lt;/on_insert&gt;&lt;on_update&gt;false&lt;/on_update&gt;&lt;published_version/&gt;&lt;run_flow_in&gt;background&lt;/run_flow_in&gt;&lt;run_on_extended&gt;false&lt;/run_on_extended&gt;&lt;run_when_setting&gt;both&lt;/run_when_setting&gt;&lt;run_when_user_list/&gt;&lt;run_when_user_setting&gt;any&lt;/run_when_user_setting&gt;&lt;sys_class_name&gt;sys_flow_record_trigger&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:44&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;3479e5e4732fc7107517f8ec4ab8b799&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_overrides/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:44&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;trigger_definition/&gt;&lt;/sys_flow_record_trigger&gt;&lt;sys_trigger_runner_mapping action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;data&gt;{"run_flow_in":"background","run_when_user_list":[],"run_when_setting":"both","run_when_user_setting":"any","run_on_extended":"false"}&lt;/data&gt;&lt;identifier&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/identifier&gt;&lt;identifier_type&gt;flow&lt;/identifier_type&gt;&lt;runner&gt;FDTriggerRunner&lt;/runner&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:44&lt;/sys_created_on&gt;&lt;sys_id&gt;7c79e5e4732fc7107517f8ec4ab8b79a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:44&lt;/sys_updated_on&gt;&lt;trigger display_value=""&gt;3479e5e4732fc7107517f8ec4ab8b799&lt;/trigger&gt;&lt;/sys_trigger_runner_mapping&gt;&lt;sys_trigger_runner_mapping action="delete_multiple" query="identifier=2c12212873ebc7107517f8ec4ab8b78a^sys_idNOT IN7c79e5e4732fc7107517f8ec4ab8b79a"/&gt;&lt;sys_hub_flow_stage action="delete_multiple" query="flow=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_flow_cat_variable_model action="delete_multiple" query="id=2c12212873ebc7107517f8ec4ab8b78a^sys_idNOT INe812212873ebc7107517f8ec4ab8b78f"/&gt;&lt;sys_flow_cat_variable_model action="INSERT_OR_UPDATE"&gt;&lt;id&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/id&gt;&lt;name&gt;ShopSphere Incident Assignment from CI&lt;/name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:17:29&lt;/sys_created_on&gt;&lt;sys_id&gt;e812212873ebc7107517f8ec4ab8b78f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:17:29&lt;/sys_updated_on&gt;&lt;/sys_flow_cat_variable_model&gt;&lt;sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=e812212873ebc7107517f8ec4ab8b78f"/&gt;&lt;sys_hub_flow_input action="delete_multiple" query="model=2c12212873ebc7107517f8ec4ab8b78a^sys_idNOT IN6732616873ebc7107517f8ec4ab8b7a9,ba32ed2873ebc7107517f8ec4ab8b7c3"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="ShopSphere Incident Assignment from CI"&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/model&gt;&lt;model_id&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_2c12212873ebc7107517f8ec4ab8b78a&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;101&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:18:15&lt;/sys_created_on&gt;&lt;sys_id&gt;6732616873ebc7107517f8ec4ab8b7a9&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:30&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=6732616873ebc7107517f8ec4ab8b7a9"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;table_name&lt;/dependent&gt;&lt;dependent_on_field&gt;table_name&lt;/dependent_on_field&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;current&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;document_id&lt;/internal_type&gt;&lt;label&gt;Record&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="ShopSphere Incident Assignment from CI"&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/model&gt;&lt;model_id&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_2c12212873ebc7107517f8ec4ab8b78a&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:18:12&lt;/sys_created_on&gt;&lt;sys_id&gt;ba32ed2873ebc7107517f8ec4ab8b7c3&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:29&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;true&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=ba32ed2873ebc7107517f8ec4ab8b7c3"/&gt;&lt;sys_hub_flow_output action="delete_multiple" query="model=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=2c12212873ebc7107517f8ec4ab8b78a^sys_idNOT IN1232ed2873ebc7107517f8ec4ab8b7ba"/&gt;&lt;sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;comment/&gt;&lt;display_text/&gt;&lt;flow display_value="ShopSphere Incident Assignment from CI"&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/flow&gt;&lt;generation_source/&gt;&lt;name&gt;Created&lt;/name&gt;&lt;published_version/&gt;&lt;remote_sys_id/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:18:10&lt;/sys_created_on&gt;&lt;sys_id&gt;1232ed2873ebc7107517f8ec4ab8b7ba&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:32&lt;/sys_updated_on&gt;&lt;trigger_definition display_value="Created"&gt;798916a0c31322002841b63b12d3ae7c&lt;/trigger_definition&gt;&lt;trigger_inputs&gt;H4sIAAAAAAAA/9VYa2/iOBT9K1E+7Up0lQeU0m9d2lGROu0ImB2tqm7kJDZYa2wmcdJhRv3ve50HhDwoFOjSTyh2Yp97fO651zz+0hlyMdMv9TFyGdZbOuUSBxyx8WKOYViqYYejmZqbIe4jKYKFfimDCLd0EojZGM/mDEl4mSAWwqAIfBzol2ZLjxGL8GgRDnxYCb5PlsnW1LNpeKbcoz7mEoZ8GsJii7+ymcFqxptS5geY65ePTy19jgJYS6p9fpWmJAB31qLS7lP4VMHwiId6FjY827QtyzCsi7bpntuuafk2woYB75UpKcGWNcysYsY/JOY+9pd0VEgLMPIfOFss35gC5ylBM/QjpD9h9QtDvUcwROXhdG756GQkpcPeVFAPP8wlFTwdSXGmk4JFM36f4lf0YoIiJnN6YSQKYT08V5AViAwRGU3F8zDf8BPlSXTZJBMeYssnJGVA3UjiUB0FoQwOxUm5CUUUJOiHN/2H4bXz7Wrcv70ZOsOb0Xg46I9vrvWXJC7ne6RWTBFmWJw0nJelJj5RzNQB8mjmApqWHnoBncsrT9I4F99LayXovuA+TVipiNrLp8J1UefRb1K1YTTq2ivsmGvbm/mu49HB6P5hfPP5y/jvf7KRP9RHo/HVcDz6Nhjfjm4fvpwt58JoPheBdCaBiOarb6sJ8ubE6BcpSBLj/BwhH6OGxHBJITGK1NbELmtYLtK3KUWykW1ypG0Y/1OWZOb31iR5RlyGjhQO8n2nwBJ4CiysQhQ+Zter/WCcTiaQV5TPIxm+mjVpbNXUeT1pgojDEs7yhKqpkxC5ZPSOhoDvERJ/hL9H6TGcgQuSnLwsInKXbTCMuCa45kUBsCY1OHgt30xLYCuxkMEMTTLqYWGGPVlQC/kaFp8+0zCkfFIIpglL8kIVDFsUEeUuvw+Gp0O6SvVI4lI8B/OE/GwTPzBNQlxMLKOr3MA0bJeYRtfoIOLbhuFZBT+oQmzELksyOoov7OYKYSJgtoUmysRn4I1iBm0l8Hg9O3ISlHAy8+kfBpp5IGiWglYyUXsnF12KNR2+XtfsptAO3KIgP0bwhZ/HuE0LsoVrEiaewZ/3d0wiAqzqPvfLVqW20Cj8rr1xHK90kffvZhSrN7TfskP9/dR8c3UouawRXxzNMW1iuj3cxgYYpQ0e6XZ6PddDFiHd8y62zJJjrsDVIv4QTvmKGOI6NTW5Zq2847qs2MEv9wBY8c6dAe7vmplcaz0znfsY7vg8xdwBqIHDlP9VTHLC4J6fzx3WAypbx6usP5QP3GVBqd3JRc/rmN2u14U7FLgAaWMXmW2rg3rdc/uiU3KBCrxN0GUNW+9yswoXYQKkwSG+plOn9V/EMaUcYilV4dq72iefo3S/QqFVJ6QlniMCTbGrDVYvaiMMZTO5ah+r+gs5rdR9QPInjK8hUT3kveBnNeiOeJHjcKfYhrgGZKfWpZQUFa8fwpFud7h90ekRu96lSK/OpVYQm8GffNeypUDiRqnVtS/bpmtcm/WN/cYbMq4knmIjsqFTOhQp5sFJsY5Hir13d5ZnaOOV9i1gP1AVTFqTg5VCwbEjSK2ZU6Jlf4FiX3MXmpxi4JZBPw47awrGEatN2mdXaiEMa1lLdLQyp86kTMq10GBCC96FluPUupJu3uNujv0u6nTshq68V76b18F8JYqTr3w7Cyeu0+HG8rfbuuU1awtgIc3WdbJlaTto1PX1bb+oayvca1HvX7s2/bNQg+JEq9LTf0PenU3CIAAA&lt;/trigger_inputs&gt;&lt;trigger_outputs/&gt;&lt;trigger_type&gt;record_create&lt;/trigger_type&gt;&lt;updation_source/&gt;&lt;/sys_hub_trigger_instance_v2&gt;&lt;sys_hub_action_instance_v2 action="delete_multiple" query="flow=2c12212873ebc7107517f8ec4ab8b78a^sys_idNOT INaf742d2873ebc7107517f8ec4ab8b79a"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Update Record"&gt;f9d01dd2c31332002841b63b12d3aea1&lt;/action_type&gt;&lt;action_type_parent/&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot/&gt;&lt;display_text/&gt;&lt;flow display_value="ShopSphere Incident Assignment from CI"&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;2&lt;/order&gt;&lt;parent_ui_id&gt;0e2dbeb6-edd3-4591-b65a-15d625c31f1b&lt;/parent_ui_id&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:28:05&lt;/sys_created_on&gt;&lt;sys_id&gt;af742d2873ebc7107517f8ec4ab8b79a&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:33&lt;/sys_updated_on&gt;&lt;ui_id&gt;154da065-72a4-430a-b26f-aa42f22ce242&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1TTW/bMAz9K4bPhmHHadDmNjQIkMNaoBt6aTtDluhEmCx5spw0C/zfR8lykn6iKDpsA6abKOrxPfLxZhdyFk7DMbAkPUsnNEuzbJQko9NxWkyyIh2xjACkYRRKUgFmaqBKM7yviWhtYLc710AMsDyNaas1SNN1+M54UwuyvfZpGKErLhi+h9ObuyisiUZEAzqc7h49mW0NuSAFCPw4U7StEDRYzBDjrWyH31cD3cf0bQ28M4+ecxvEJ8snTaIQ7g1IBliuJKKBKKyIZMQovQ2nRrcYQNXsUortPmPFpemVVuS+4T8Rf5zYvBJQGvVd2F9z36GhOYpTuKwNV7KPGFKIoXNKtJW86CXY3kJJWmGOets2iAe1pWxJ9AzLLyu1uRrqzbl06jxboSgR+xsxRvOiNdDYcYAA15SK1DWXy7zWas3dZ6RSxUuBl7gUaoM1G76UMaGWd4wNIvEc4zMXviaaWxGfEQY/d058/qO1dXsZnnDuNDvBuRsUpjZU89p8QuA1eJpd5O2ajF41ABzm7VzaHNmVNJaZU7fUqq1v2yTJ2DMmjmnFipzyuGnrWmmf3nXfNkp/z6XCVvV/F5JyKyI4QAcuN8COIXkWlFpVgVlB0GBjKVYJzheBh+1T41v5dGX+Zqrv2+WvUKFAA0EvMXrzNAeAOQfBmmfG69fZ+AL52hfYb/SHrXQ6Sdz5v9i/YbGLk9esQM8Okz/CPCw39/5+ukuLw8s7rWvrBRd9vbdyffD5Be6Dc49j3rUnH2ba0z9kV8/oH/PrSy69+wW/Hf4MLwkAAA==&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=af742d2873ebc7107517f8ec4ab8b79a"/&gt;&lt;sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=2c12212873ebc7107517f8ec4ab8b78a^sys_idNOT INc8932d6873ebc7107517f8ec4ab8b7cf"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;attributes/&gt;&lt;block display_value=""&gt;84932d6873ebc7107517f8ec4ab8b7ce&lt;/block&gt;&lt;comment/&gt;&lt;connected_to/&gt;&lt;decision_table/&gt;&lt;display_text/&gt;&lt;flow display_value="ShopSphere Incident Assignment from CI"&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/flow&gt;&lt;flow_variables_assigned/&gt;&lt;generation_source/&gt;&lt;logic_definition display_value="If"&gt;af4e1945c3e232002841b63b12d3ae3e&lt;/logic_definition&gt;&lt;order&gt;1&lt;/order&gt;&lt;outputs_assigned/&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_flow_logic_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:24:01&lt;/sys_created_on&gt;&lt;sys_id&gt;c8932d6873ebc7107517f8ec4ab8b7cf&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:33&lt;/sys_updated_on&gt;&lt;ui_id&gt;0e2dbeb6-edd3-4591-b65a-15d625c31f1b&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1VXW/aMBT9K5GfWZRAQStvFWs1tLZUA1Waps5ybAesObZnO7QZyn/vdT4oGuxT0572ho/vvefce4/DDunSm9K7lb5wTqwVmn58GCChAga/d0iRgqMpolox4YVWaIC2RJYB2+1mlhPPGU5jWlrLlY9pwTJMRRzS6vp6/u5y+XZx9+rTj2JdaYy2Hq+tLk1dz5e3i9Xlzd3qA3Ax4Ywk1f0/pKQbIRlEt6MwxEJdzy2a7r658pXhWJKMS1C29FaoNaQLBqdzMs7HaTKmo+FkNEyS4euzNJuMsnTIRoSfTSCuT5wdTPbEsAMJQK4vry0LWobJAPEnzxXjwJcT6fgAFUQx4rWt0NTbEgDony2UrPYRG6E8VEMh9smJrzxUSpIQmXNojPL2dn/E3QJamG60oHxhGm0N4kkmuxyqZVmo27aFsDqek1L6fnWAlA7qcRNEBxmdpny50Y/ve8IroZoGu0upKZH7E/Ewhqz03IVtcMkLKIQLYgwMBxurt6JJBi1FvJZwiHOpH4E0eDsmNAiPYUYkvgL8TQPfEytCFzdQBpJhgw47aoXpe2vIUd1MBX8pg562v64T3A4DAtq0C6DZ8k50PTh+Q7gBXh7SsnVjJFyktI94YXwVwS6j2TyCJE+EclEw9fGD+J3Uv2HsPCF5ek7T08Ymo1PGjq4b5Nje/Ry+4/H0Jx7vkF8y+Xj83+OHHg8yM+IExc23HsqFL8Yfm/whmLmlcK2HGKfCgZJVwOb9/0m4qGDrgh5Cj9p+Dj28YPUz5BdbLJkGAAA=&lt;/values&gt;&lt;workflow_reference/&gt;&lt;/sys_hub_flow_logic_instance_v2&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_hub_flow_variable action="delete_multiple" query="model=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;current&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Record&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_2c12212873ebc7107517f8ec4ab8b78a&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:18:15&lt;/sys_created_on&gt;&lt;sys_id&gt;2f32616873ebc7107517f8ec4ab8b7a3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:18:15&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_2c12212873ebc7107517f8ec4ab8b78a&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:18:15&lt;/sys_created_on&gt;&lt;sys_id&gt;3b32616873ebc7107517f8ec4ab8b7ee&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:18:15&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;sys_hub_flow_snapshot action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_high_security_roles&gt;false&lt;/allow_high_security_roles&gt;&lt;annotation/&gt;&lt;attributes&gt;browserActivatedIn=safari,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,viewActivatedIn=naturalLanguage&lt;/attributes&gt;&lt;authored_on_release_version&gt;29000&lt;/authored_on_release_version&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description&gt;Assigns ShopSphere incidents to the support group defined on the selected CI&lt;/description&gt;&lt;flow_priority&gt;MEDIUM&lt;/flow_priority&gt;&lt;internal_name&gt;shopsphere_incident_assignment_from_ci&lt;/internal_name&gt;&lt;label_cache&gt;[{"name":"Created_1.current.cmdb_ci.name","label":"Trigger - Record Created➛Incident Record➛Configuration item➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"cmdb_ci","column_name":"name","choices":[{"order":0.0}],"usedInstances":{"0e2dbeb6-edd3-4591-b65a-15d625c31f1b":["condition"]}},{"name":"Created_1.current.cmdb_ci","label":"Trigger - Record Created➛Incident Record➛Configuration item","reference":"cmdb_ci","reference_display":"Configuration Item","type":"reference","base_type":"reference","parent_table_name":"incident","column_name":"cmdb_ci","choices":[{"order":0.0}],"usedInstances":{}},{"name":"Created_1.current","label":"Trigger - Record Created➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference","usedInstances":{"154da065-72a4-430a-b26f-aa42f22ce242":["record"]},"attributes":{}},{"name":"Created_1.current.cmdb_ci.support_group","label":"Trigger - Record Created➛Incident Record➛Configuration item➛Support group","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci","column_name":"support_group","usedInstances":{"0e2dbeb6-edd3-4591-b65a-15d625c31f1b":["condition"],"154da065-72a4-430a-b26f-aa42f22ce242":["assignment_group"]}}]&lt;/label_cache&gt;&lt;master&gt;true&lt;/master&gt;&lt;name&gt;ShopSphere Incident Assignment from CI&lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;parent_flow display_value="ShopSphere Incident Assignment from CI"&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/parent_flow&gt;&lt;remote_trigger_id/&gt;&lt;run_as&gt;system&lt;/run_as&gt;&lt;run_with_roles/&gt;&lt;sc_callable&gt;false&lt;/sc_callable&gt;&lt;status&gt;published&lt;/status&gt;&lt;sys_class_name&gt;sys_hub_flow_snapshot&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:39&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:39&lt;/sys_updated_on&gt;&lt;type&gt;flow&lt;/type&gt;&lt;version&gt;2&lt;/version&gt;&lt;/sys_hub_flow_snapshot&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_hub_flow_stage action="delete_multiple" query="flow=eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_flow_cat_variable_model action="delete_multiple" query="id=eb69a5e4732fc7107517f8ec4ab8b7ca^sys_idNOT INab69a5e4732fc7107517f8ec4ab8b7cb"/&gt;&lt;sys_flow_cat_variable_model action="INSERT_OR_UPDATE"&gt;&lt;id&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/id&gt;&lt;name&gt;ShopSphere Incident Assignment from CI&lt;/name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:39&lt;/sys_created_on&gt;&lt;sys_id&gt;ab69a5e4732fc7107517f8ec4ab8b7cb&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:39&lt;/sys_updated_on&gt;&lt;/sys_flow_cat_variable_model&gt;&lt;sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=ab69a5e4732fc7107517f8ec4ab8b7cb"/&gt;&lt;sys_hub_flow_input action="delete_multiple" query="model=eb69a5e4732fc7107517f8ec4ab8b7ca^sys_idNOT IN2b69a5e4732fc7107517f8ec4ab8b7cd,c879a5e4732fc7107517f8ec4ab8b7eb"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;table_name&lt;/dependent&gt;&lt;dependent_on_field&gt;table_name&lt;/dependent_on_field&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;current&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;document_id&lt;/internal_type&gt;&lt;label&gt;Record&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="ShopSphere Incident Assignment from CI"&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/model&gt;&lt;model_id&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow_snapshot&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:39&lt;/sys_created_on&gt;&lt;sys_id&gt;2b69a5e4732fc7107517f8ec4ab8b7cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:39&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;true&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=2b69a5e4732fc7107517f8ec4ab8b7cd"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="ShopSphere Incident Assignment from CI"&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/model&gt;&lt;model_id&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow_snapshot&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;101&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_only_option/&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:41&lt;/sys_created_on&gt;&lt;sys_id&gt;c879a5e4732fc7107517f8ec4ab8b7eb&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:41&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=c879a5e4732fc7107517f8ec4ab8b7eb"/&gt;&lt;sys_hub_flow_output action="delete_multiple" query="model=eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=eb69a5e4732fc7107517f8ec4ab8b7ca^sys_idNOT INac79e5e4732fc7107517f8ec4ab8b766"/&gt;&lt;sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;comment/&gt;&lt;display_text/&gt;&lt;flow display_value="ShopSphere Incident Assignment from CI"&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/flow&gt;&lt;generation_source/&gt;&lt;name&gt;Created&lt;/name&gt;&lt;published_version/&gt;&lt;remote_sys_id/&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:43&lt;/sys_created_on&gt;&lt;sys_id&gt;ac79e5e4732fc7107517f8ec4ab8b766&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:43&lt;/sys_updated_on&gt;&lt;trigger_definition display_value="Created"&gt;798916a0c31322002841b63b12d3ae7c&lt;/trigger_definition&gt;&lt;trigger_inputs&gt;H4sIAAAAAAAA/9VYa2/iOBT9K1E+7Up0lQeU0m9d2lGROu0ImB2tqm7kJDZYa2wmcdJhRv3ve50HhDwoFOjSTyh2Yp97fO651zz+0hlyMdMv9TFyGdZbOuUSBxyx8WKOYViqYYejmZqbIe4jKYKFfimDCLd0EojZGM/mDEl4mSAWwqAIfBzol2ZLjxGL8GgRDnxYCb5PlsnW1LNpeKbcoz7mEoZ8GsJii7+ymcFqxptS5geY65ePTy19jgJYS6p9fpWmJAB31qLS7lP4VMHwiId6FjY827QtyzCsi7bpntuuafk2woYB75UpKcGWNcysYsY/JOY+9pd0VEgLMPIfOFss35gC5ylBM/QjpD9h9QtDvUcwROXhdG756GQkpcPeVFAPP8wlFTwdSXGmk4JFM36f4lf0YoIiJnN6YSQKYT08V5AViAwRGU3F8zDf8BPlSXTZJBMeYssnJGVA3UjiUB0FoQwOxUm5CUUUJOiHN/2H4bXz7Wrcv70ZOsOb0Xg46I9vrvWXJC7ne6RWTBFmWJw0nJelJj5RzNQB8mjmApqWHnoBncsrT9I4F99LayXovuA+TVipiNrLp8J1UefRb1K1YTTq2ivsmGvbm/mu49HB6P5hfPP5y/jvf7KRP9RHo/HVcDz6Nhjfjm4fvpwt58JoPheBdCaBiOarb6sJ8ubE6BcpSBLj/BwhH6OGxHBJITGK1NbELmtYLtK3KUWykW1ypG0Y/1OWZOb31iR5RlyGjhQO8n2nwBJ4CiysQhQ+Zter/WCcTiaQV5TPIxm+mjVpbNXUeT1pgojDEs7yhKqpkxC5ZPSOhoDvERJ/hL9H6TGcgQuSnLwsInKXbTCMuCa45kUBsCY1OHgt30xLYCuxkMEMTTLqYWGGPVlQC/kaFp8+0zCkfFIIpglL8kIVDFsUEeUuvw+Gp0O6SvVI4lI8B/OE/GwTPzBNQlxMLKOr3MA0bJeYRtfoIOLbhuFZBT+oQmzELksyOoov7OYKYSJgtoUmysRn4I1iBm0l8Hg9O3ISlHAy8+kfBpp5IGiWglYyUXsnF12KNR2+XtfsptAO3KIgP0bwhZ/HuE0LsoVrEiaewZ/3d0wiAqzqPvfLVqW20Cj8rr1xHK90kffvZhSrN7TfskP9/dR8c3UouawRXxzNMW1iuj3cxgYYpQ0e6XZ6PddDFiHd8y62zJJjrsDVIv4QTvmKGOI6NTW5Zq2847qs2MEv9wBY8c6dAe7vmplcaz0znfsY7vg8xdwBqIHDlP9VTHLC4J6fzx3WAypbx6usP5QP3GVBqd3JRc/rmN2u14U7FLgAaWMXmW2rg3rdc/uiU3KBCrxN0GUNW+9yswoXYQKkwSG+plOn9V/EMaUcYilV4dq72iefo3S/QqFVJ6QlniMCTbGrDVYvaiMMZTO5ah+r+gs5rdR9QPInjK8hUT3kveBnNeiOeJHjcKfYhrgGZKfWpZQUFa8fwpFud7h90ekRu96lSK/OpVYQm8GffNeypUDiRqnVtS/bpmtcm/WN/cYbMq4knmIjsqFTOhQp5sFJsY5Hir13d5ZnaOOV9i1gP1AVTFqTg5VCwbEjSK2ZU6Jlf4FiX3MXmpxi4JZBPw47awrGEatN2mdXaiEMa1lLdLQyp86kTMq10GBCC96FluPUupJu3uNujv0u6nTshq68V76b18F8JYqTr3w7Cyeu0+HG8rfbuuU1awtgIc3WdbJlaTto1PX1bb+oayvca1HvX7s2/bNQg+JEq9LTf0PenU3CIAAA&lt;/trigger_inputs&gt;&lt;trigger_outputs/&gt;&lt;trigger_type&gt;record_create&lt;/trigger_type&gt;&lt;updation_source/&gt;&lt;/sys_hub_trigger_instance_v2&gt;&lt;sys_hub_action_instance_v2 action="delete_multiple" query="flow=eb69a5e4732fc7107517f8ec4ab8b7ca^sys_idNOT INe879e5e4732fc7107517f8ec4ab8b764"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Update Record"&gt;f9d01dd2c31332002841b63b12d3aea1&lt;/action_type&gt;&lt;action_type_parent display_value="Update Record"&gt;baf174c8c3c232002841b63b12d3aee4&lt;/action_type_parent&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot&gt;f9d01dd2c31332002841b63b12d3aea1&lt;/compiled_snapshot&gt;&lt;display_text/&gt;&lt;flow display_value="ShopSphere Incident Assignment from CI"&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;2&lt;/order&gt;&lt;parent_ui_id&gt;0e2dbeb6-edd3-4591-b65a-15d625c31f1b&lt;/parent_ui_id&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:43&lt;/sys_created_on&gt;&lt;sys_id&gt;e879e5e4732fc7107517f8ec4ab8b764&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:43&lt;/sys_updated_on&gt;&lt;ui_id&gt;154da065-72a4-430a-b26f-aa42f22ce242&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1UTU/jMBD9K5HPVZS0gKC3VatKlViQAPUCbOTYk9Zax876A+hW/e87SZy2W7qoSBxA2tw8H857z2/mfkUEJ0NyAjxJL9IzNkgHg36S9M9P0vxskKd9PqAAKekRRUvASgNMG47nJyp9HVitRgaoA56lMfPGgHLrNea5sJWky1kowwhbCMkxT4b3jz1SUYM3OjBkuNpLHQtJ0hwklt50mPYxumVVn7lmvkRcmeiCl6FzHDLRdIwZbKrhpEmPwIsDxQGBFFRa6JGSKk6dNksydMZjAEnzayWXm4qFUK4lWtIXK37jn0+Suq4AZMaCCJtjFgRqw8WYOnqLNzPnzUYvLRjYVhMOBfXSjXZjbcF15YRWbYujuey6tfSlumoVIZsLdt7DWwQBVc2zRt7SKm4X+vmmAzkRqpEkUJSaUbk5UeeMyL2r4awISGg0LmlVCTXPKqOfRNOMUMp4LvEQF1I/4z+tmKuYshp3jKrSeILxcROeUSNqEt/xGmxe94hd2pGk1m6poIbZL18jaYkFClmjQiNB1jihbmZGVO4b/uoJAvB1L5g+6b/pMNgaqvG63TE9wkGsDd+50b568Eky4AdGIWYlzzMmYuurSptQvl7/eNbmZ6Y0itf2ThUTNYloe3XU1EaoIYLnUWF0GbkFRBalZviXaDSNwrVtafygXg/eZ4b6vo1wxHt1G2EiQHJ74AHDRnBQokYOsvZB/14KdyEZzUJysxc+bDGkZ0nz/V8Pn3c95Kdv2Y1dbN21c+d2RYgwJa8ncrrNvG8AjkDUDcBd89KHEXYzsB+73O2NrtpE8P7ph1n//CuZPtD48q7/l9cf/wB8k26/AQoAAA==&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=e879e5e4732fc7107517f8ec4ab8b764"/&gt;&lt;sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=eb69a5e4732fc7107517f8ec4ab8b7ca^sys_idNOT IN1479e5e4732fc7107517f8ec4ab8b762"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;attributes/&gt;&lt;block display_value=""&gt;84932d6873ebc7107517f8ec4ab8b7ce&lt;/block&gt;&lt;comment/&gt;&lt;connected_to/&gt;&lt;decision_table/&gt;&lt;display_text/&gt;&lt;flow display_value="ShopSphere Incident Assignment from CI"&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/flow&gt;&lt;flow_variables_assigned/&gt;&lt;generation_source/&gt;&lt;logic_definition display_value="If"&gt;af4e1945c3e232002841b63b12d3ae3e&lt;/logic_definition&gt;&lt;order&gt;1&lt;/order&gt;&lt;outputs_assigned/&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_flow_logic_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:43&lt;/sys_created_on&gt;&lt;sys_id&gt;1479e5e4732fc7107517f8ec4ab8b762&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:43&lt;/sys_updated_on&gt;&lt;ui_id&gt;0e2dbeb6-edd3-4591-b65a-15d625c31f1b&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1VW2/TMBj9K5GfS5S068T6NnWbqNjWiVaTEBrRF8dpLRzb+LItVPnvfM6lq9gETCCeeKuPv8s5pz7tjijvtHd2rU6t5RtJZp/uRoTLgOHnHZFQMTIjVMmCO64kGZF7ED5gu93cMHCsyNKYemOYdDGtijyjPA5tTXO5eH++ere8efP5Z7XWa62MyzZGed00i9X1cn1+dbP+iLsKbrWA+vYfrqRbLgqs7qzQYHCuY4bMdj9c8QIZncC0nKbJlE7Gx5NxkozfHqX58SRPx8UE2NExDhSQM4Gl8wMPX7DV1TpA1hkuN/35sm9dDaAyRaAyTkaEPTomC4YkShCWjUgFsgCnTE1mzngEUH6xlKLeV2y5dDiNhNpHy7+xMClJQmXJUBdl3e3+mPX+d3B5Bg6QiqfOm76UbhWnzHaOFKwEL9z8EOsKlrpV2bY4yMXQrYSv5HVnBtkPGL5uRLxFEkwHpYF7L6RcbdXDh4HlBZetK/2lUBTE/gQOvcu9C3x2hAlW4aCsAq3R0Uwbdc/bZuRSxRuBh7gU6gGXhjzEQAPxGI2F+ALxsxa+BcODiiscg834FmxmqeF60NYuJ82I2NrOBVj7pBHNzb76wLBT3GvLOntCSzvoFBffs15GM3qexKwFnuK46t50xG0klYtYpV0d4ZOI5osImxxwaaMQjeexek3r6+JRJlCmJzR9OR4weSkeUffqn4dkUPyapKS/SEqP/FZUptP/SfnjpASaOVhOs/ZfBseFH6u/GJW7EIlu6d5syi1yWwdsMfy3hYsaXxSnh9CDMl+Cqies+Q5iQSraJQcAAA==&lt;/values&gt;&lt;workflow_reference/&gt;&lt;/sys_hub_flow_logic_instance_v2&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_hub_flow_variable action="delete_multiple" query="model=eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:41&lt;/sys_created_on&gt;&lt;sys_id&gt;8c79e5e4732fc7107517f8ec4ab8b749&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:41&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;current&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Record&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:40&lt;/sys_created_on&gt;&lt;sys_id&gt;f369a5e4732fc7107517f8ec4ab8b7e7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:40&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_eb69a5e4732fc7107517f8ec4ab8b7ca"/&gt;&lt;sys_hub_flow action="UPDATE"&gt;&lt;sys_id&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/sys_id&gt;&lt;latest_snapshot&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/latest_snapshot&gt;&lt;compiler_build/&gt;&lt;version_record/&gt;&lt;/sys_hub_flow&gt;&lt;sys_flow_trigger_plan action="delete_multiple" query="plan_id=2c12212873ebc7107517f8ec4ab8b78a^sys_idNOT INfc79e5e4732fc7107517f8ec4ab8b79b"/&gt;&lt;sys_flow_trigger_plan action="INSERT_OR_UPDATE"&gt;&lt;binding_strategy&gt;com.snc.process_flow.engine.binding.OncePerRecord&lt;/binding_strategy&gt;&lt;plan/&gt;&lt;plan_id&gt;2c12212873ebc7107517f8ec4ab8b78a&lt;/plan_id&gt;&lt;snapshot&gt;eb69a5e4732fc7107517f8ec4ab8b7ca&lt;/snapshot&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-09-22 09:49:44&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;fc79e5e4732fc7107517f8ec4ab8b79b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_overrides/&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-09-22 09:49:44&lt;/sys_updated_on&gt;&lt;trigger display_value=""&gt;3479e5e4732fc7107517f8ec4ab8b799&lt;/trigger&gt;&lt;/sys_flow_trigger_plan&gt;&lt;sys_flow_subflow_plan action="delete_multiple" query="plan_id=2c12212873ebc7107517f8ec4ab8b78a"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1793948645</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>90658fb073678b107517f8ec4ab8b783</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8857cef0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table/>
+<target_name>ShopSphere Incident Assignment from CI</target_name>
+<type>Flow</type>
+<update_domain>global</update_domain>
+<update_guid>1579e5e4812fc7107aa7ac1a5432c7fe</update_guid>
+<update_guid_history>1579e5e4812fc7107aa7ac1a5432c7fe:1793948645,ba69a5e44c2fc710c34eb05258237053:1481032281,d3e7e124ec2fc710b6eb5f4652f48514:-2088305814,d284696c50ebc710c50848635dee7d95:-1394329218,9564656cc1ebc710323b3c96214cfe1f:93516384,8b24ad2ce0ebc710c8a7f11b2d6ca60c:-246084176,cb932de8d3ebc7103a1016de42ec1947:-1320640090,1e8369e862ebc7100c4dce7dfd4613f4:184973760,5942a16894ebc71080311a5df75c809e:-1239035201,f812e928f2ebc710b6fa147e458114b8:402818002</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_source_4e097da473afc7107517f8ec4ab8b734</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source"><sys_report_source action="INSERT_OR_UPDATE"><description/><display>ShopSphere CIs by Class (Configuration Item)</display><filter table="cmdb_ci">nameSTARTSWITHSHOP^ORnameSTARTSWITHShopSphere<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="SHOP"/><item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="true" value="ShopSphere"/></filter><name>ShopSphere CIs by Class</name><sys_class_name>sys_report_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:58:18</sys_created_on><sys_id>4e097da473afc7107517f8ec4ab8b734</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ShopSphere CIs by Class (Configuration Item)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_source_4e097da473afc7107517f8ec4ab8b734</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:58:18</sys_updated_on><table>cmdb_ci</table></sys_report_source></record_update>]]></payload>
+<payload_hash>-1420686726</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>94658fb073678b107517f8ec4ab8b784</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8c43b030000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table>cmdb_ci</table>
+<target_name>ShopSphere CIs by Class (Configuration Item)</target_name>
+<type>Report Source</type>
+<update_domain>global</update_domain>
+<update_guid>0529bda4b5afc710a30adf76470dfa7a</update_guid>
+<update_guid_history>0529bda4b5afc710a30adf76470dfa7a:-1420686726</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_5852ea2473e30b107517f8ec4ab8b789</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">6fda52a473a30b107517f8ec4ab8b784</canvas><component display_value="Semi donut">3809c6583b8dd540a0bf735ed493bae2</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":true,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":true,"showRegisterValue":true,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":true,"showPercentageOfTotalInTooltip":true,"colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Configuration Item","sourceType":"table","tableOrViewName":"cmdb_ci","reportSourceSysId":"64ed5ee873a30b107517f8ec4ab8b772","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGVjbWRiX2NpMTc5MDA4NDU4OTA4Mw==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"lineClamp":1,"headerTitleAlignment":"start","wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":true,"headingLevel":2,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"dGFibGVjbWRiX2NpMTc5MDA4NDU4OTA4Mw==","id":"ZEdGaWJHVmpiV1JpWDJOcE1UYzVNREE0TkRVNE9UQTRNdz09MTc5MDA4NDg1OTI4Mw==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGVjbWRiX2NpMTc5MDA4NDU4OTA4Mw==","groupByField":"operational_status","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":true,"showThreshold":false,"showComment":false,"showTotalValue":true,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"4fbkfjm4","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"autoAggregatePeriods":false,"showChangeFrom":"previous","useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showExportOptions":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","filterPerMetric":[],"scoreType":null,"headerTitle":"ShopSphere CI Operational Status"}</component_props><h>12</h><name/><required_translations>[{"message":"Configuration Item","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.5852ea2473e30b107517f8ec4ab8b789"},{"message":"ShopSphere CI Operational Status","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.5852ea2473e30b107517f8ec4ab8b789"},{"message":"No data available.","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.5852ea2473e30b107517f8ec4ab8b789"},{"message":"There are no scores available for the selected criteria. Contact your admin for more info.","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.5852ea2473e30b107517f8ec4ab8b789"}]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:58:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5852ea2473e30b107517f8ec4ab8b789</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_widget_5852ea2473e30b107517f8ec4ab8b789</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 16:13:55</sys_updated_on><visualization/><w>16</w><widget_props/><x>8</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>-2054627798</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>98658fb073678b107517f8ec4ab8b780</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c9e530200000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>e0618bec89a70b100b5f01cb830432b9</update_guid>
+<update_guid_history>e0618bec89a70b100b5f01cb830432b9:-2054627798,021143ec68a70b107cff5eba7a53b3d0:-2075687151,05eeb6a8f8a70b1044774e3a8ca9eef0:-345522926,3f8e3e684ca70b1054b406adea29f475:112789476,5452ea24f1e30b10347bbffe10237f8c:36595162</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_users_groups_07a039a0736fc7107517f8ec4ab8b7e1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">43a039a0736fc7107517f8ec4ab8b7e0</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:21:17</sys_created_on><sys_id>07a039a0736fc7107517f8ec4ab8b7e1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>43a039a0736fc7107517f8ec4ab8b7e0</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_users_groups_07a039a0736fc7107517f8ec4ab8b7e1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:21:17</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+<payload_hash>1917933313</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>98658fb073678b107517f8ec4ab8b785</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8a259ed0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table/>
+<target_name>43a039a0736fc7107517f8ec4ab8b7e0</target_name>
+<type>Report Users and Groups</type>
+<update_domain>global</update_domain>
+<update_guid>87a071a4446fc710e029ad67eb9740bd</update_guid>
+<update_guid_history>87a071a4446fc710e029ad67eb9740bd:1917933313</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_visualization_permission_4c54b56c736fc7107517f8ec4ab8b79d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_visualization_permission"><par_visualization_permission action="INSERT_OR_UPDATE"><can_share>true</can_share><component display_value="Shopsphere">2744356c736fc7107517f8ec4ab8b715</component><group/><owner>true</owner><role/><sys_class_name>par_visualization_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:37:12</sys_created_on><sys_id>4c54b56c736fc7107517f8ec4ab8b79d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2744356c736fc7107517f8ec4ab8b715</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_visualization_permission_4c54b56c736fc7107517f8ec4ab8b79d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:37:12</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user><write>true</write></par_visualization_permission></record_update>]]></payload>
+<payload_hash>513879784</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>9c658fb073678b107517f8ec4ab8b781</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8b0eacd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>2744356c736fc7107517f8ec4ab8b715</target_name>
+<type>PAR Visualization Permission</type>
+<update_domain>global</update_domain>
+<update_guid>8c54b56cc26fc710e49c7c095b4a4faf</update_guid>
+<update_guid_history>8c54b56cc26fc710e49c7c095b4a4faf:513879784</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_6516aee873e30b107517f8ec4ab8b740</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="6516aee873e30b107517f8ec4ab8b740" sys_domain="global" table="par_dashboard_widget" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:41</sys_created_on><sys_id>4616622c73e30b107517f8ec4ab8b7be</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:41</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>stored_component</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>c216622c73e30b107517f8ec4ab8b7c0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>4216622c73e30b107517f8ec4ab8b7c1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_scope</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>ce16622c73e30b107517f8ec4ab8b7c1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>h</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>4e16622c73e30b107517f8ec4ab8b7c2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>ca16622c73e30b107517f8ec4ab8b7c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>widget_props</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>4a16622c73e30b107517f8ec4ab8b7c4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>component_props</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>5616622c73e30b107517f8ec4ab8b7de</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>visualization</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>d216622c73e30b107517f8ec4ab8b7df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>required_translations</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>5216622c73e30b107517f8ec4ab8b7e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>de16622c73e30b107517f8ec4ab8b7e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>w</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:42</sys_created_on><sys_id>5e16622c73e30b107517f8ec4ab8b7e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>y</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:43</sys_created_on><sys_id>da16622c73e30b107517f8ec4ab8b7e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>component</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:43</sys_created_on><sys_id>5a16622c73e30b107517f8ec4ab8b7e3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:43</sys_created_on><sys_id>d616622c73e30b107517f8ec4ab8b7e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:43</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>canvas</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:43</sys_created_on><sys_id>5616622c73e30b107517f8ec4ab8b7e5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_domain</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:43</sys_created_on><sys_id>d216622c73e30b107517f8ec4ab8b7e6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:43</sys_created_on><sys_id>5216622c73e30b107517f8ec4ab8b7e7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:43</sys_created_on><sys_id>de16622c73e30b107517f8ec4ab8b7e7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:43</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:43</sys_created_on><sys_id>5e16622c73e30b107517f8ec4ab8b7e8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="par_dashboard_widget" sys_domain="global" view="Default view">6516aee873e30b107517f8ec4ab8b740</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>par_dashboard_widget</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 14:14:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6516aee873e30b107517f8ec4ab8b740</sys_id><sys_mod_count>0</sys_mod_count><sys_name>par_dashboard_widget</sys_name><sys_overrides/><sys_package display_value="Glide PAR Seismic Dashboards" source="com.snc.par.dashboards">ccd7f2fb8c1903100a22deb6dd2b4e32</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_6516aee873e30b107517f8ec4ab8b740</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 14:14:40</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-184340248</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>9c658fb073678b107517f8ec4ab8b786</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c9780f6c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table>par_dashboard_widget</table>
+<target_name>PAR Dashboard Widget</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>2216622c4de30b102f1c2a9282fcd0fa</update_guid>
+<update_guid_history>2216622c4de30b102f1c2a9282fcd0fa:-184340248,f116622c8ce30b107e7b18c36312dbb9:609729300</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_canvas_9bda52a473a30b107517f8ec4ab8b73d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="ShopSphere">c7da5e6473a30b107517f8ec4ab8b767</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:25:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9bda52a473a30b107517f8ec4ab8b73d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_canvas_9bda52a473a30b107517f8ec4ab8b73d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:25:38</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+<payload_hash>-1768521746</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>c0658fb073678b107517f8ec4ab8b77d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94b1e6c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Page Canvas</type>
+<update_domain>global</update_domain>
+<update_guid>57da52a402a30b10f10a26097cd8547e</update_guid>
+<update_guid_history>57da52a402a30b10f10a26097cd8547e:-1768521746</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_permission_eac275a8736fc7107517f8ec4ab8b7f5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">16c27d28736fc7107517f8ec4ab8b7d8</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:30:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eac275a8736fc7107517f8ec4ab8b7f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>16c27d28736fc7107517f8ec4ab8b7d8</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_permission_eac275a8736fc7107517f8ec4ab8b7f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:30:32</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+<payload_hash>1352452625</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>c4658fb073678b107517f8ec4ab8b77e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8aad3c40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>16c27d28736fc7107517f8ec4ab8b7d8</target_name>
+<type>PAR Dashboard Permission</type>
+<update_domain>global</update_domain>
+<update_guid>bac275a8f86fc710c882d8b27f1335fa</update_guid>
+<update_guid_history>bac275a8f86fc710c882d8b27f1335fa:1352452625</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_user_metadata_f6c275a8736fc7107517f8ec4ab8b7fc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2026-09-22 10:30:33</created_on><dashboard display_value="ShopSphere CMDB Portfolio Dashboard">16c27d28736fc7107517f8ec4ab8b7d8</dashboard><edit_locked/><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_insight_sentiment>true</include_insight_sentiment><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_deactivated_on/><last_updated_on>2026-09-22 10:51:16</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval>-1</refresh_interval><requested_by_user/><schedule_repetition>false</schedule_repetition><show_ai_insights_panel>true</show_ai_insights_panel><show_ai_summary>true</show_ai_summary><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:30:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f6c275a8736fc7107517f8ec4ab8b7fc</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_user_metadata_f6c275a8736fc7107517f8ec4ab8b7fc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 15:58:37</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin>$now-global-space--sm</widgets_margin></par_dashboard_user_metadata></record_update>]]></payload>
+<payload_hash>-819967012</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>c8658fb073678b107517f8ec4ab8b77f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c9d72e970000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Metadata</type>
+<update_domain>global</update_domain>
+<update_guid>d4edb62815a70b100166857856cec1a0</update_guid>
+<update_guid_history>d4edb62815a70b100166857856cec1a0:-819967012,58e77924fbafc710e622e84243791e32:1848332248,88e775246dafc710973b569f87e71d56:637060665,9287bde08fafc710d26916865d79e421:-819967012,0fc2b5a8656fc710cc4cecc519cb3173:-1757269659</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_recommended_fields_d2afc99073eb47107517f8ec4ab8b77a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_recommended_fields"><cmdb_recommended_fields action="INSERT_OR_UPDATE"><active>true</active><recommended>support_group,operational_status,name,serial_number,ip_address</recommended><sys_class_name>cmdb_recommended_fields</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-21 13:18:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d2afc99073eb47107517f8ec4ab8b77a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cmdb_ci_linux_server</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_recommended_fields_d2afc99073eb47107517f8ec4ab8b77a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-21 13:18:35</sys_updated_on><table>cmdb_ci_linux_server</table></cmdb_recommended_fields></record_update>]]></payload>
+<payload_hash>-352820925</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>cc658fb073678b107517f8ec4ab8b77b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c41e4ee20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table>cmdb_ci_linux_server</table>
+<target_name>cmdb_ci_linux_server</target_name>
+<type>CMDB Recommended Field</type>
+<update_domain>global</update_domain>
+<update_guid>daafc990fbeb4710b20f4d1381b4767d</update_guid>
+<update_guid_history>daafc990fbeb4710b20f4d1381b4767d:-352820925</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>pa_m2m_dashboard_tabs_39aa1a6473a30b107517f8ec4ab8b77e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="">101a1ae073a30b107517f8ec4ab8b7e7</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:24:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>39aa1a6473a30b107517f8ec4ab8b77e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>101a1ae073a30b107517f8ec4ab8b7e7</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_39aa1a6473a30b107517f8ec4ab8b77e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:24:43</sys_updated_on><tab display_value="New Tab 1">d9aa1a6473a30b107517f8ec4ab8b748</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+<payload_hash>1335135746</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>d0658fb073678b107517f8ec4ab8b782</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c94a48b40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name>101a1ae073a30b107517f8ec4ab8b7e7</target_name>
+<type>Dashboard Tab</type>
+<update_domain>global</update_domain>
+<update_guid>8aaa1a6469a30b101a64491c2f6ec5c7</update_guid>
+<update_guid_history>8aaa1a6469a30b101a64491c2f6ec5c7:1335135746</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_437231e4736fc7107517f8ec4ab8b772</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report"><sys_report action="INSERT_OR_UPDATE"><active>true</active><additional_groupby/><aggregate>COUNT</aggregate><aggregation_source>no_override</aggregation_source><allow_data_label_overlap>false</allow_data_label_overlap><apply_alias>false</apply_alias><axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color><axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color><bar_unstack>false</bar_unstack><calendar/><certified>false</certified><chart_background_color/><chart_border_color/><chart_border_radius>0</chart_border_radius><chart_border_width>1</chart_border_width><chart_height>450</chart_height><chart_size>large</chart_size><chart_subtitle/><chart_subtitle_color/><chart_subtitle_size>14</chart_subtitle_size><chart_subtitle_style>normal</chart_subtitle_style><chart_title/><chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color><chart_title_size>16</chart_title_size><chart_title_style>normal</chart_title_style><chart_title_x_position>0</chart_title_x_position><chart_title_y_position>0</chart_title_y_position><chart_width>600</chart_width><color display_value="Default Color">de699435d7033100b4964ebfae610331</color><color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette><colors/><column/><compute_percent>aggregate</compute_percent><content/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><custom_chart_size>false</custom_chart_size><custom_chart_title_position>false</custom_chart_title_position><custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config><decimal_precision>2</decimal_precision><description/><direction>minimize</direction><display_column_lines>false</display_column_lines><display_grid>false</display_grid><display_row_lines>false</display_row_lines><donut_width_percent>30</donut_width_percent><end_time/><exp_report_attrs>true</exp_report_attrs><field>cmdb_ci</field><field_list>number,opened_at,short_description,caller_id,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by</field_list><filter table="incident">cmdb_ci.nameSTARTSWITHSHOP^ORcmdb_ci.nameSTARTSWITHShopSphere<item endquery="false" field="cmdb_ci.name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="SHOP"/><item endquery="false" field="cmdb_ci.name" goto="false" newquery="false" operator="STARTSWITH" or="true" value="ShopSphere"/></filter><formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration><from/><funnel_neck_percent>30</funnel_neck_percent><gauge_autoscale>true</gauge_autoscale><group/><import_table/><interval>year</interval><is_published>false</is_published><is_real_time>false</is_real_time><is_scheduled>false</is_scheduled><legend_align_columns>true</legend_align_columns><legend_background_color/><legend_border_color/><legend_border_radius>0</legend_border_radius><legend_border_width>1</legend_border_width><legend_horizontal_alignment>center</legend_horizontal_alignment><legend_items_left_align>false</legend_items_left_align><legend_vertical_alignment>bottom</legend_vertical_alignment><list_ui_view/><location_field/><lower_limit/><macroponent/><map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map><map_source/><name/><no_bulk_migration>false</no_bulk_migration><orderby_list/><other_threshold>-2</other_threshold><others>true</others><page_hdrftr/><pivot_expanded>true</pivot_expanded><properties/><report_drilldown/><report_source/><requested_by/><required_translations/><roles/><row/><sc_groupby_item_id/><sc_groupby_variable_id/><sc_stackby_item_id/><sc_stackby_variable_id/><score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color><series_name_text/><set_color>one_color</set_color><show_chart_border>false</show_chart_border><show_chart_data_label>false</show_chart_data_label><show_chart_title>report</show_chart_title><show_chart_total>false</show_chart_total><show_data_label_position_middle>false</show_data_label_position_middle><show_empty>false</show_empty><show_geographical_label>false</show_geographical_label><show_legend>true</show_legend><show_legend_border>false</show_legend_border><show_marker>false</show_marker><show_zero>false</show_zero><source_type>table</source_type><start_time/><style_config/><sumfield/><sys_class_name>sys_report</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:29:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>437231e4736fc7107517f8ec4ab8b772</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Incidents by ShopSphere CI</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_437231e4736fc7107517f8ec4ab8b772</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:29:13</sys_updated_on><table>incident</table><title>Incidents by ShopSphere CI</title><title_horizontal_alignment>center</title_horizontal_alignment><title_vertical_alignment>top</title_vertical_alignment><to/><trend_field/><type>horizontal_bar</type><upper_limit/><use_color_heatmap>false</use_color_heatmap><use_null_in_trend>false</use_null_in_trend><user>6816f79cc0a8016401c5a33be04be441</user><x_axis_allow_decimals>true</x_axis_allow_decimals><x_axis_display_grid>false</x_axis_display_grid><x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color><x_axis_grid_dotted>false</x_axis_grid_dotted><x_axis_grid_width>1</x_axis_grid_width><x_axis_label_bold>false</x_axis_label_bold><x_axis_label_color/><x_axis_label_size>11</x_axis_label_size><x_axis_label_tilt>0</x_axis_label_tilt><x_axis_opposite>false</x_axis_opposite><x_axis_title/><x_axis_title_bold>true</x_axis_title_bold><x_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</x_axis_title_color><x_axis_title_size>12</x_axis_title_size><y_axis_allow_decimals>true</y_axis_allow_decimals><y_axis_display_grid>true</y_axis_display_grid><y_axis_from/><y_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</y_axis_grid_color><y_axis_grid_dotted>false</y_axis_grid_dotted><y_axis_grid_width>1</y_axis_grid_width><y_axis_label_bold>false</y_axis_label_bold><y_axis_label_color/><y_axis_label_size>11</y_axis_label_size><y_axis_label_tilt>0</y_axis_label_tilt><y_axis_opposite>false</y_axis_opposite><y_axis_title/><y_axis_title_bold>true</y_axis_title_bold><y_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</y_axis_title_color><y_axis_title_size>12</y_axis_title_size><y_axis_to/></sys_report></record_update>]]></payload>
+<payload_hash>1283551812</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>d4658fb073678b107517f8ec4ab8b783</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8a99f6e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table>incident</table>
+<target_name>Incidents by ShopSphere CI</target_name>
+<type>Report</type>
+<update_domain>global</update_domain>
+<update_guid>6772b968ef6fc71001544b9e89f1ca70</update_guid>
+<update_guid_history>6772b968ef6fc71001544b9e89f1ca70:1283551812,d772b9685b6fc7104c07b03298ae8b60:1832425770,9b72b9686f6fc7104eae8ed99193885d:1283551812</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_source_64ed5ee873a30b107517f8ec4ab8b772</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source"><sys_report_source action="INSERT_OR_UPDATE"><description/><display>ShopSphere CIs by operational status (Configuration Item)</display><filter table="cmdb_ci">nameSTARTSWITHSHOP^ORnameSTARTSWITHShopSphere<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="SHOP"/><item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="true" value="ShopSphere"/></filter><name>ShopSphere CIs by operational status</name><sys_class_name>sys_report_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:39:10</sys_created_on><sys_id>64ed5ee873a30b107517f8ec4ab8b772</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ShopSphere CIs by operational status (Configuration Item)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_source_64ed5ee873a30b107517f8ec4ab8b772</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 13:39:10</sys_updated_on><table>cmdb_ci</table></sys_report_source></record_update>]]></payload>
+<payload_hash>283592306</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>d8658fb073678b107517f8ec4ab8b784</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c95782080000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table>cmdb_ci</table>
+<target_name>ShopSphere CIs by operational status (Configuration Item)</target_name>
+<type>Report Source</type>
+<update_domain>global</update_domain>
+<update_guid>61fd1ee83ea30b102718d8a4c5caa1e9</update_guid>
+<update_guid_history>61fd1ee83ea30b102718d8a4c5caa1e9:283592306</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>par_dashboard_widget_bb42e66073e30b107517f8ec4ab8b716</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">6fda52a473a30b107517f8ec4ab8b784</canvas><component display_value="Donut">a2b0596cec6b9d49dd1ff9bf76b5084b</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":true,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":true,"showRegisterValue":true,"legendHorizontalAlignment":"center","legendExpandToFit":true,"showRegisterPercentage":false,"showPercentageOfTotalInTooltip":true,"colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Configuration Item","sourceType":"table","tableOrViewName":"cmdb_ci","reportSourceSysId":"4e097da473afc7107517f8ec4ab8b734","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGVjbWRiX2NpMTc5MDA4Mzk2NDg2OQ==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"lineClamp":1,"headerTitleAlignment":"start","wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":true,"headingLevel":2,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"dGFibGVjbWRiX2NpMTc5MDA4Mzk2NDg2OQ==","id":"ZEdGaWJHVmpiV1JpWDJOcE1UYzVNREE0TXprMk5EZzJPUT09MTc5MDA4Mzk5NzU5Mw==","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"dGFibGVjbWRiX2NpMTc5MDA4Mzk2NDg2OQ==","groupByField":"sys_class_name","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"showTotalValue":true,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":true,"componentId":"3tliztsz","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","hideDevSettings":false,"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"autoAggregatePeriods":false,"showChangeFrom":"previous","useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showExportOptions":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","filterPerMetric":[],"scoreType":null,"headerTitle":"ShopSphere CIs by Class"}</component_props><h>17</h><name/><required_translations>[{"message":"Configuration Item","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.bb42e66073e30b107517f8ec4ab8b716"},{"message":"ShopSphere CIs by Class","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.bb42e66073e30b107517f8ec4ab8b716"},{"message":"No data available.","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.bb42e66073e30b107517f8ec4ab8b716"},{"message":"There are no scores available for the selected criteria. Contact your admin for more info.","comment":"","code":"PAR_DASHBOARD.6fda52a473a30b107517f8ec4ab8b784.bb42e66073e30b107517f8ec4ab8b716"}]</required_translations><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 13:58:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bb42e66073e30b107517f8ec4ab8b716</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>par_dashboard_widget_bb42e66073e30b107517f8ec4ab8b716</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 16:13:54</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></payload>
+<payload_hash>293120848</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:51</sys_created_on>
+<sys_id>dc658fb073678b107517f8ec4ab8b780</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c9e52d010000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:51</sys_updated_on>
+<table/>
+<target_name/>
+<type>PAR Dashboard Widget</type>
+<update_domain>global</update_domain>
+<update_guid>d0618bec01a70b10e958472b49bedab3</update_guid>
+<update_guid_history>d0618bec01a70b10e958472b49bedab3:293120848,b11143ec43a70b105c6506a8e340c3ca:-1987912201,af8e3e68daa70b10456f5bd150fe986f:-598927456,0c52ea2421e30b1099541f2df7cd5d87:-135317960</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_users_groups_39b13de4736fc7107517f8ec4ab8b7db</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">f1b13de4736fc7107517f8ec4ab8b7da</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-22 10:25:51</sys_created_on><sys_id>39b13de4736fc7107517f8ec4ab8b7db</sys_id><sys_mod_count>0</sys_mod_count><sys_name>f1b13de4736fc7107517f8ec4ab8b7da</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_users_groups_39b13de4736fc7107517f8ec4ab8b7db</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-22 10:25:51</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+<payload_hash>824224787</payload_hash>
+<remote_update_set display_value="ShopSphere CMDB Portfolio Project">08650fb073678b107517f8ec4ab8b7ec</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-23 11:09:52</sys_created_on>
+<sys_id>dc658fb073678b107517f8ec4ab8b785</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a0c8a6875b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-23 11:09:52</sys_updated_on>
+<table/>
+<target_name>f1b13de4736fc7107517f8ec4ab8b7da</target_name>
+<type>Report Users and Groups</type>
+<update_domain>global</update_domain>
+<update_guid>c2b13de4746fc710c80d7c531b59c8de</update_guid>
+<update_guid_history>c2b13de4746fc710c80d7c531b59c8de:824224787</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
