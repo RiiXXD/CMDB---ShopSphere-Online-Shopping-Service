@@ -329,7 +329,7 @@ Expected: 7 records
 
 ## Evidence and screenshots
 
-Add sanitized screenshots to the `screenshots` directory and reference them here:
+
 
 ```markdown
 ![ShopSphere service map](screenshots/01-service-map.png)
